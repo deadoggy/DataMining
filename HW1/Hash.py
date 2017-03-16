@@ -57,6 +57,8 @@ class HashData:
 
 if __name__ == "__main__":
 
+    print "start"
+
     for tableSize in range(0, 10):
         print "table size:" + str(tableSize) + '\n'
         print "///////////////////////////////////////////////////"
