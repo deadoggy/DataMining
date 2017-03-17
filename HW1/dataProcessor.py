@@ -77,7 +77,7 @@ class dataProcessor:
         retMatrix = pandas.DataFrame(0, paraDataMatrix[0], range(self.__traceSum))
 
         for point in paraDataMatrix[1]:
-            retMatrix.loc[point[2], point[0]] = 1
+            retMatrix.loc[point[2], point[0]-1] = 1
 
         return retMatrix
 

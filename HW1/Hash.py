@@ -2,7 +2,7 @@
 
 from dataProcessor import *
 from lshash import lshash as ls
-import numpy as np
+
 
 class HashData:
 
@@ -43,7 +43,7 @@ class HashData:
                 print "#######################################"
                 print "query trace:" + str(trace) + '\n'
                 query_point = self.__data[trace].tolist()
-                result = self.__hashProcessors[sizeOpt].query(query_point)
+                result = self.__hashProcessors[sizeOpt].query(query_point, 100, "hamming")
                 #输出结果
                 for res in result:
                     if res[0][1].tid != trace:
@@ -59,7 +59,7 @@ if __name__ == "__main__":
 
     print "start"
 
-    for tableSize in range(0, 10):
+    for tableSize in range(1, 11):
         print "table size:" + str(tableSize) + '\n'
         print "///////////////////////////////////////////////////"
         print "///////////////////////////////////////////////////"

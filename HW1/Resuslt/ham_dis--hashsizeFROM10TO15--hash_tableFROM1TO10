@@ -1,0 +1,6881 @@
+start
+table size:1
+
+///////////////////////////////////////////////////
+///////////////////////////////////////////////////
+Initiallizing......
+Initialization Success!
+Running....
+
+size:10
+
+#######################################
+query trace:15
+
+result tid:178
+start time:2015-04-01 13:39:19
+end time:2015-04-01 13:49:52
+distance:115
+
+result tid:63
+start time:2015-04-01 19:50:09
+end time:2015-04-01 19:59:17
+distance:119
+
+result tid:410
+start time:2015-04-01 21:13:31
+end time:2015-04-01 21:24:25
+distance:130
+
+result tid:234
+start time:2015-04-01 23:08:50
+end time:2015-04-01 23:22:13
+distance:133
+
+result tid:283
+start time:2015-04-01 10:36:01
+end time:2015-04-01 10:53:57
+distance:139
+
+result tid:141
+start time:2015-04-01 08:48:52
+end time:2015-04-01 09:06:11
+distance:142
+
+result tid:835
+start time:2015-04-01 13:43:02
+end time:2015-04-01 13:57:14
+distance:144
+
+result tid:763
+start time:2015-04-01 06:15:23
+end time:2015-04-01 06:31:02
+distance:144
+
+result tid:736
+start time:2015-04-01 23:26:47
+end time:2015-04-01 23:46:57
+distance:147
+
+result tid:577
+start time:2015-04-01 20:58:27
+end time:2015-04-01 21:16:10
+distance:149
+
+#######################################
+query trace:250
+
+result tid:166
+start time:2015-04-01 15:22:08
+end time:2015-04-01 15:31:45
+distance:115
+
+result tid:863
+start time:2015-04-01 18:37:38
+end time:2015-04-01 18:47:48
+distance:115
+
+result tid:614
+start time:2015-04-01 22:43:39
+end time:2015-04-01 22:54:03
+distance:117
+
+result tid:274
+start time:2015-04-01 06:14:56
+end time:2015-04-01 06:24:46
+distance:117
+
+result tid:117
+start time:2015-04-01 08:30:34
+end time:2015-04-01 08:41:41
+distance:121
+
+result tid:527
+start time:2015-04-01 15:04:39
+end time:2015-04-01 15:15:33
+distance:121
+
+result tid:284
+start time:2015-04-01 06:04:40
+end time:2015-04-01 06:14:32
+distance:121
+
+result tid:404
+start time:2015-04-01 08:56:57
+end time:2015-04-01 09:10:02
+distance:126
+
+result tid:66
+start time:2015-04-01 14:35:16
+end time:2015-04-01 14:46:33
+distance:131
+
+result tid:228
+start time:2015-04-01 06:43:54
+end time:2015-04-01 06:56:26
+distance:131
+
+result tid:883
+start time:2015-04-01 17:35:50
+end time:2015-04-01 17:52:11
+distance:135
+
+result tid:376
+start time:2015-04-01 20:25:31
+end time:2015-04-01 20:38:40
+distance:140
+
+result tid:773
+start time:2015-04-01 08:10:14
+end time:2015-04-01 08:26:34
+distance:144
+
+result tid:366
+start time:2015-04-01 08:38:16
+end time:2015-04-01 08:53:49
+distance:144
+
+result tid:231
+start time:2015-04-01 22:31:57
+end time:2015-04-01 22:49:41
+distance:145
+
+result tid:922
+start time:2015-04-01 15:27:35
+end time:2015-04-01 15:42:59
+distance:150
+
+result tid:447
+start time:2015-04-01 10:25:32
+end time:2015-04-01 10:44:09
+distance:167
+
+result tid:742
+start time:2015-04-01 22:31:52
+end time:2015-04-01 22:57:08
+distance:184
+
+#######################################
+query trace:480
+
+result tid:206
+start time:2015-04-01 14:09:02
+end time:2015-04-01 14:18:23
+distance:131
+
+result tid:756
+start time:2015-04-01 16:10:00
+end time:2015-04-01 16:23:35
+distance:132
+
+result tid:91
+start time:2015-04-01 15:08:28
+end time:2015-04-01 15:17:38
+distance:134
+
+result tid:386
+start time:2015-04-01 22:37:09
+end time:2015-04-01 22:48:32
+distance:134
+
+result tid:743
+start time:2015-04-01 12:06:57
+end time:2015-04-01 12:18:22
+distance:137
+
+result tid:315
+start time:2015-04-01 18:14:17
+end time:2015-04-01 18:27:28
+distance:141
+
+result tid:612
+start time:2015-04-01 21:03:36
+end time:2015-04-01 21:12:35
+distance:142
+
+result tid:290
+start time:2015-04-01 13:32:41
+end time:2015-04-01 13:45:34
+distance:158
+
+result tid:437
+start time:2015-04-01 08:24:05
+end time:2015-04-01 08:40:01
+distance:161
+
+result tid:697
+start time:2015-04-01 18:34:17
+end time:2015-04-01 18:50:47
+distance:168
+
+result tid:182
+start time:2015-04-01 14:25:32
+end time:2015-04-01 14:43:50
+distance:175
+
+result tid:514
+start time:2015-04-01 10:00:56
+end time:2015-04-01 10:22:00
+distance:184
+
+result tid:362
+start time:2015-04-01 12:36:32
+end time:2015-04-01 13:02:49
+distance:201
+
+result tid:654
+start time:2015-04-01 10:02:49
+end time:2015-04-01 10:31:10
+distance:228
+
+#######################################
+query trace:690
+
+result tid:812
+start time:2015-04-01 20:51:00
+end time:2015-04-01 21:00:49
+distance:140
+
+result tid:357
+start time:2015-04-01 15:56:30
+end time:2015-04-01 16:07:04
+distance:140
+
+result tid:788
+start time:2015-04-01 10:57:31
+end time:2015-04-01 11:08:33
+distance:140
+
+result tid:25
+start time:2015-04-01 06:14:10
+end time:2015-04-01 06:24:14
+distance:144
+
+result tid:418
+start time:2015-04-01 19:55:01
+end time:2015-04-01 20:07:34
+distance:144
+
+result tid:723
+start time:2015-04-01 20:44:45
+end time:2015-04-01 21:02:11
+distance:146
+
+result tid:902
+start time:2015-04-01 14:45:50
+end time:2015-04-01 14:56:42
+distance:147
+
+result tid:36
+start time:2015-04-01 15:40:01
+end time:2015-04-01 15:53:49
+distance:151
+
+result tid:212
+start time:2015-04-01 15:26:45
+end time:2015-04-01 15:38:44
+distance:152
+
+result tid:111
+start time:2015-04-01 16:25:07
+end time:2015-04-01 16:41:10
+distance:159
+
+result tid:556
+start time:2015-04-01 09:24:36
+end time:2015-04-01 09:43:33
+distance:160
+
+result tid:311
+start time:2015-04-01 06:25:04
+end time:2015-04-01 06:42:04
+distance:165
+
+result tid:673
+start time:2015-04-01 14:48:49
+end time:2015-04-01 15:07:23
+distance:191
+
+result tid:745
+start time:2015-04-01 18:28:32
+end time:2015-04-01 18:50:42
+distance:194
+
+result tid:222
+start time:2015-04-01 16:23:44
+end time:2015-04-01 17:02:47
+distance:305
+
+#######################################
+query trace:900
+
+result tid:748
+start time:2015-04-01 12:51:01
+end time:2015-04-01 13:03:24
+distance:140
+
+result tid:535
+start time:2015-04-01 10:11:14
+end time:2015-04-01 10:23:08
+distance:143
+
+result tid:646
+start time:2015-04-01 07:41:18
+end time:2015-04-01 07:51:17
+distance:143
+
+result tid:928
+start time:2015-04-01 12:09:57
+end time:2015-04-01 12:18:29
+distance:145
+
+result tid:709
+start time:2015-04-01 14:01:57
+end time:2015-04-01 14:11:41
+distance:145
+
+result tid:26
+start time:2015-04-01 12:59:23
+end time:2015-04-01 13:08:14
+distance:145
+
+result tid:108
+start time:2015-04-01 19:53:42
+end time:2015-04-01 20:03:56
+distance:146
+
+result tid:647
+start time:2015-04-01 09:31:52
+end time:2015-04-01 09:45:19
+distance:146
+
+result tid:427
+start time:2015-04-01 07:40:59
+end time:2015-04-01 07:53:00
+distance:150
+
+result tid:168
+start time:2015-04-01 23:33:32
+end time:2015-04-01 23:46:00
+distance:155
+
+result tid:860
+start time:2015-04-01 11:05:37
+end time:2015-04-01 11:17:10
+distance:160
+
+result tid:616
+start time:2015-04-01 13:42:29
+end time:2015-04-01 14:01:45
+distance:181
+
+
+size:11
+
+#######################################
+query trace:15
+
+result tid:192
+start time:2015-04-01 17:36:44
+end time:2015-04-01 17:47:20
+distance:111
+
+result tid:523
+start time:2015-04-01 23:33:58
+end time:2015-04-01 23:41:01
+distance:112
+
+result tid:90
+start time:2015-04-01 20:45:12
+end time:2015-04-01 20:54:03
+distance:114
+
+result tid:375
+start time:2015-04-01 22:28:41
+end time:2015-04-01 22:39:08
+distance:117
+
+result tid:175
+start time:2015-04-01 22:13:25
+end time:2015-04-01 22:24:19
+distance:117
+
+result tid:602
+start time:2015-04-01 19:06:21
+end time:2015-04-01 19:20:09
+distance:118
+
+result tid:779
+start time:2015-04-01 19:13:45
+end time:2015-04-01 19:27:36
+distance:120
+
+result tid:99
+start time:2015-04-01 14:57:21
+end time:2015-04-01 15:11:11
+distance:123
+
+result tid:915
+start time:2015-04-01 20:45:42
+end time:2015-04-01 20:56:17
+distance:126
+
+result tid:785
+start time:2015-04-01 10:13:23
+end time:2015-04-01 10:28:53
+distance:128
+
+result tid:301
+start time:2015-04-01 05:38:01
+end time:2015-04-01 05:52:20
+distance:152
+
+result tid:362
+start time:2015-04-01 12:36:32
+end time:2015-04-01 13:02:49
+distance:182
+
+#######################################
+query trace:250
+
+result tid:192
+start time:2015-04-01 17:36:44
+end time:2015-04-01 17:47:20
+distance:111
+
+result tid:8
+start time:2015-04-01 20:01:10
+end time:2015-04-01 20:14:49
+distance:123
+
+result tid:382
+start time:2015-04-01 09:16:13
+end time:2015-04-01 09:29:29
+distance:124
+
+result tid:60
+start time:2015-04-01 16:47:02
+end time:2015-04-01 17:01:10
+distance:126
+
+result tid:145
+start time:2015-04-01 17:21:00
+end time:2015-04-01 17:33:35
+distance:131
+
+result tid:583
+start time:2015-04-01 08:15:59
+end time:2015-04-01 08:31:58
+distance:132
+
+result tid:589
+start time:2015-04-01 10:24:13
+end time:2015-04-01 10:39:43
+distance:137
+
+result tid:874
+start time:2015-04-01 20:15:00
+end time:2015-04-01 20:31:40
+distance:154
+
+result tid:880
+start time:2015-04-01 12:41:34
+end time:2015-04-01 13:00:32
+distance:164
+
+result tid:617
+start time:2015-04-01 17:56:49
+end time:2015-04-01 18:16:49
+distance:186
+
+result tid:852
+start time:2015-04-01 21:12:59
+end time:2015-04-01 21:38:18
+distance:195
+
+#######################################
+query trace:480
+
+result tid:424
+start time:2015-04-01 20:40:20
+end time:2015-04-01 20:51:28
+distance:130
+
+result tid:39
+start time:2015-04-01 11:48:30
+end time:2015-04-01 11:57:07
+distance:131
+
+result tid:759
+start time:2015-04-01 19:51:32
+end time:2015-04-01 20:02:24
+distance:142
+
+result tid:652
+start time:2015-04-01 22:38:06
+end time:2015-04-01 22:51:19
+distance:145
+
+result tid:673
+start time:2015-04-01 14:48:49
+end time:2015-04-01 15:07:23
+distance:189
+
+result tid:703
+start time:2015-04-01 15:10:30
+end time:2015-04-01 15:30:36
+distance:195
+
+#######################################
+query trace:690
+
+result tid:123
+start time:2015-04-01 19:30:40
+end time:2015-04-01 19:43:31
+distance:151
+
+result tid:620
+start time:2015-04-01 21:48:15
+end time:2015-04-01 22:02:39
+distance:161
+
+result tid:966
+start time:2015-04-01 15:26:17
+end time:2015-04-01 15:41:58
+distance:174
+
+result tid:464
+start time:2015-04-01 12:12:45
+end time:2015-04-01 12:31:01
+distance:176
+
+result tid:170
+start time:2015-04-01 17:34:41
+end time:2015-04-01 17:53:00
+distance:180
+
+result tid:97
+start time:2015-04-01 11:26:33
+end time:2015-04-01 11:46:41
+distance:192
+
+result tid:387
+start time:2015-04-01 15:11:14
+end time:2015-04-01 15:37:47
+distance:235
+
+#######################################
+query trace:900
+
+result tid:90
+start time:2015-04-01 20:45:12
+end time:2015-04-01 20:54:03
+distance:134
+
+result tid:958
+start time:2015-04-01 22:36:17
+end time:2015-04-01 22:46:57
+distance:140
+
+result tid:191
+start time:2015-04-01 14:57:37
+end time:2015-04-01 15:07:22
+distance:140
+
+result tid:180
+start time:2015-04-01 14:55:02
+end time:2015-04-01 15:06:47
+distance:142
+
+result tid:846
+start time:2015-04-01 10:47:47
+end time:2015-04-01 11:08:27
+distance:173
+
+
+size:12
+
+#######################################
+query trace:15
+
+result tid:39
+start time:2015-04-01 11:48:30
+end time:2015-04-01 11:57:07
+distance:112
+
+result tid:929
+start time:2015-04-01 01:10:54
+end time:2015-04-01 01:27:38
+distance:160
+
+#######################################
+query trace:250
+
+result tid:425
+start time:2015-04-01 21:11:53
+end time:2015-04-01 21:24:35
+distance:110
+
+result tid:836
+start time:2015-04-01 16:33:01
+end time:2015-04-01 16:45:18
+distance:127
+
+result tid:794
+start time:2015-04-01 02:38:52
+end time:2015-04-01 02:50:38
+distance:132
+
+result tid:619
+start time:2015-04-01 09:42:06
+end time:2015-04-01 09:58:09
+distance:143
+
+#######################################
+query trace:480
+
+result tid:669
+start time:2015-04-01 20:24:48
+end time:2015-04-01 20:38:30
+distance:134
+
+result tid:465
+start time:2015-04-01 18:53:12
+end time:2015-04-01 19:04:25
+distance:137
+
+result tid:785
+start time:2015-04-01 10:13:23
+end time:2015-04-01 10:28:53
+distance:147
+
+result tid:776
+start time:2015-04-01 01:18:54
+end time:2015-04-01 01:36:00
+distance:185
+
+#######################################
+query trace:690
+
+result tid:295
+start time:2015-04-01 13:04:13
+end time:2015-04-01 13:13:27
+distance:132
+
+result tid:639
+start time:2015-04-01 13:25:22
+end time:2015-04-01 13:48:10
+distance:206
+
+#######################################
+query trace:900
+
+result tid:576
+start time:2015-04-01 10:09:27
+end time:2015-04-01 10:23:18
+distance:151
+
+result tid:887
+start time:2015-04-01 19:29:26
+end time:2015-04-01 19:41:03
+distance:157
+
+result tid:333
+start time:2015-04-01 14:40:01
+end time:2015-04-01 15:00:19
+distance:201
+
+
+size:13
+
+#######################################
+query trace:15
+
+result tid:862
+start time:2015-04-01 17:58:48
+end time:2015-04-01 18:12:03
+distance:125
+
+#######################################
+query trace:250
+
+result tid:893
+start time:2015-04-01 13:33:06
+end time:2015-04-01 13:43:10
+distance:116
+
+result tid:349
+start time:2015-04-01 19:56:39
+end time:2015-04-01 20:10:30
+distance:125
+
+#######################################
+query trace:480
+
+result tid:437
+start time:2015-04-01 08:24:05
+end time:2015-04-01 08:40:01
+distance:161
+
+#######################################
+query trace:690
+
+result tid:491
+start time:2015-04-01 15:28:36
+end time:2015-04-01 15:40:42
+distance:135
+
+result tid:310
+start time:2015-04-01 23:26:44
+end time:2015-04-01 23:52:11
+distance:189
+
+#######################################
+query trace:900
+
+result tid:516
+start time:2015-04-01 12:45:52
+end time:2015-04-01 12:54:19
+distance:138
+
+result tid:840
+start time:2015-04-01 19:45:47
+end time:2015-04-01 19:58:39
+distance:141
+
+result tid:659
+start time:2015-04-01 12:48:32
+end time:2015-04-01 13:02:17
+distance:156
+
+
+size:14
+
+#######################################
+query trace:15
+
+#######################################
+query trace:250
+
+#######################################
+query trace:480
+
+#######################################
+query trace:690
+
+result tid:602
+start time:2015-04-01 19:06:21
+end time:2015-04-01 19:20:09
+distance:139
+
+result tid:312
+start time:2015-04-01 13:04:44
+end time:2015-04-01 13:19:49
+distance:152
+
+result tid:880
+start time:2015-04-01 12:41:34
+end time:2015-04-01 13:00:32
+distance:183
+
+#######################################
+query trace:900
+
+result tid:936
+start time:2015-04-01 12:53:12
+end time:2015-04-01 12:59:52
+distance:129
+
+result tid:908
+start time:2015-04-01 09:39:42
+end time:2015-04-01 09:50:38
+distance:140
+
+result tid:395
+start time:2015-04-01 00:16:51
+end time:2015-04-01 00:26:42
+distance:146
+
+result tid:133
+start time:2015-04-01 00:00:03
+end time:2015-04-01 00:15:21
+distance:173
+
+
+size:15
+
+#######################################
+query trace:15
+
+#######################################
+query trace:250
+
+#######################################
+query trace:480
+
+result tid:7
+start time:2015-04-01 18:00:22
+end time:2015-04-01 18:16:48
+distance:184
+
+#######################################
+query trace:690
+
+#######################################
+query trace:900
+
+result tid:805
+start time:2015-04-01 12:35:47
+end time:2015-04-01 12:44:08
+distance:138
+
+result tid:150
+start time:2015-04-01 09:09:17
+end time:2015-04-01 09:21:49
+distance:158
+
+table size:2
+
+///////////////////////////////////////////////////
+///////////////////////////////////////////////////
+Initiallizing......
+Initialization Success!
+Running....
+
+size:10
+
+#######################################
+query trace:15
+
+result tid:48
+start time:2015-04-01 15:58:31
+end time:2015-04-01 16:09:04
+distance:118
+
+result tid:311
+start time:2015-04-01 06:25:04
+end time:2015-04-01 06:42:04
+distance:144
+
+result tid:450
+start time:2015-04-01 11:43:02
+end time:2015-04-01 12:03:36
+distance:152
+
+result tid:275
+start time:2015-04-01 22:59:52
+end time:2015-04-01 23:18:40
+distance:161
+
+result tid:494
+start time:2015-04-01 09:29:22
+end time:2015-04-01 09:52:51
+distance:175
+
+#######################################
+query trace:250
+
+result tid:90
+start time:2015-04-01 20:45:12
+end time:2015-04-01 20:54:03
+distance:114
+
+result tid:26
+start time:2015-04-01 12:59:23
+end time:2015-04-01 13:08:14
+distance:119
+
+result tid:979
+start time:2015-04-01 09:27:22
+end time:2015-04-01 09:41:15
+distance:120
+
+result tid:127
+start time:2015-04-01 22:59:33
+end time:2015-04-01 23:11:21
+distance:120
+
+result tid:784
+start time:2015-04-01 23:48:39
+end time:2015-04-01 23:58:45
+distance:122
+
+result tid:139
+start time:2015-04-01 17:56:48
+end time:2015-04-01 18:12:16
+distance:132
+
+result tid:130
+start time:2015-04-01 16:23:39
+end time:2015-04-01 16:39:49
+distance:133
+
+result tid:245
+start time:2015-04-01 20:36:59
+end time:2015-04-01 20:51:48
+distance:133
+
+result tid:924
+start time:2015-04-01 02:49:48
+end time:2015-04-01 03:05:43
+distance:143
+
+result tid:735
+start time:2015-04-01 14:33:21
+end time:2015-04-01 14:50:54
+distance:145
+
+result tid:631
+start time:2015-04-01 14:54:04
+end time:2015-04-01 15:13:59
+distance:154
+
+result tid:933
+start time:2015-04-01 05:52:43
+end time:2015-04-01 06:12:46
+distance:167
+
+result tid:400
+start time:2015-04-01 22:42:51
+end time:2015-04-01 23:03:52
+distance:183
+
+result tid:381
+start time:2015-04-01 08:45:53
+end time:2015-04-01 09:15:03
+distance:198
+
+#######################################
+query trace:480
+
+result tid:516
+start time:2015-04-01 12:45:52
+end time:2015-04-01 12:54:19
+distance:131
+
+result tid:958
+start time:2015-04-01 22:36:17
+end time:2015-04-01 22:46:57
+distance:133
+
+result tid:741
+start time:2015-04-01 21:50:23
+end time:2015-04-01 22:05:39
+distance:143
+
+result tid:321
+start time:2015-04-01 12:16:21
+end time:2015-04-01 12:32:53
+distance:149
+
+result tid:442
+start time:2015-04-01 00:30:21
+end time:2015-04-01 00:39:03
+distance:149
+
+result tid:835
+start time:2015-04-01 13:43:02
+end time:2015-04-01 13:57:14
+distance:163
+
+result tid:301
+start time:2015-04-01 05:38:01
+end time:2015-04-01 05:52:20
+distance:171
+
+result tid:949
+start time:2015-04-01 17:03:19
+end time:2015-04-01 17:17:52
+distance:172
+
+result tid:769
+start time:2015-04-01 15:02:05
+end time:2015-04-01 15:34:17
+distance:236
+
+result tid:196
+start time:2015-04-01 06:39:48
+end time:2015-04-01 07:15:19
+distance:257
+
+#######################################
+query trace:690
+
+result tid:817
+start time:2015-04-01 14:28:08
+end time:2015-04-01 14:36:55
+distance:128
+
+result tid:863
+start time:2015-04-01 18:37:38
+end time:2015-04-01 18:47:48
+distance:136
+
+result tid:710
+start time:2015-04-01 17:58:24
+end time:2015-04-01 18:06:29
+distance:137
+
+result tid:313
+start time:2015-04-01 08:15:45
+end time:2015-04-01 08:27:23
+distance:142
+
+result tid:962
+start time:2015-04-01 14:57:17
+end time:2015-04-01 15:10:22
+distance:149
+
+result tid:867
+start time:2015-04-01 06:53:01
+end time:2015-04-01 07:05:31
+distance:150
+
+result tid:290
+start time:2015-04-01 13:32:41
+end time:2015-04-01 13:45:34
+distance:160
+
+result tid:884
+start time:2015-04-01 15:25:50
+end time:2015-04-01 15:44:14
+distance:192
+
+result tid:289
+start time:2015-04-01 10:22:12
+end time:2015-04-01 10:48:20
+distance:220
+
+result tid:728
+start time:2015-04-01 19:24:16
+end time:2015-04-01 20:05:20
+distance:267
+
+#######################################
+query trace:900
+
+result tid:612
+start time:2015-04-01 21:03:36
+end time:2015-04-01 21:12:35
+distance:149
+
+result tid:110
+start time:2015-04-01 14:34:04
+end time:2015-04-01 14:45:34
+distance:154
+
+result tid:627
+start time:2015-04-01 22:47:00
+end time:2015-04-01 22:59:36
+distance:156
+
+result tid:410
+start time:2015-04-01 21:13:31
+end time:2015-04-01 21:24:25
+distance:156
+
+result tid:538
+start time:2015-04-01 17:13:10
+end time:2015-04-01 17:35:53
+distance:182
+
+result tid:106
+start time:2015-04-01 19:23:24
+end time:2015-04-01 19:46:38
+distance:206
+
+result tid:131
+start time:2015-04-01 15:04:25
+end time:2015-04-01 15:33:17
+distance:238
+
+
+size:11
+
+#######################################
+query trace:15
+
+result tid:300
+start time:2015-04-01 00:38:20
+end time:2015-04-01 00:47:20
+distance:112
+
+result tid:19
+start time:2015-04-01 16:14:52
+end time:2015-04-01 16:24:35
+distance:127
+
+result tid:530
+start time:2015-04-01 10:55:13
+end time:2015-04-01 11:11:36
+distance:137
+
+result tid:291
+start time:2015-04-01 21:56:15
+end time:2015-04-01 22:11:18
+distance:148
+
+result tid:865
+start time:2015-04-01 11:10:43
+end time:2015-04-01 11:32:55
+distance:178
+
+result tid:989
+start time:2015-04-01 00:31:39
+end time:2015-04-01 00:59:30
+distance:198
+
+#######################################
+query trace:250
+
+result tid:647
+start time:2015-04-01 09:31:52
+end time:2015-04-01 09:45:19
+distance:110
+
+result tid:328
+start time:2015-04-01 06:28:40
+end time:2015-04-01 06:41:34
+distance:130
+
+result tid:955
+start time:2015-04-01 12:26:30
+end time:2015-04-01 12:39:52
+distance:140
+
+result tid:555
+start time:2015-04-01 18:53:06
+end time:2015-04-01 19:09:58
+distance:158
+
+result tid:745
+start time:2015-04-01 18:28:32
+end time:2015-04-01 18:50:42
+distance:173
+
+#######################################
+query trace:480
+
+result tid:647
+start time:2015-04-01 09:31:52
+end time:2015-04-01 09:45:19
+distance:139
+
+result tid:340
+start time:2015-04-01 20:54:06
+end time:2015-04-01 21:07:34
+distance:141
+
+result tid:849
+start time:2015-04-01 15:15:58
+end time:2015-04-01 15:31:03
+distance:147
+
+result tid:851
+start time:2015-04-01 18:53:37
+end time:2015-04-01 19:11:12
+distance:151
+
+result tid:283
+start time:2015-04-01 10:36:01
+end time:2015-04-01 10:53:57
+distance:158
+
+result tid:955
+start time:2015-04-01 12:26:30
+end time:2015-04-01 12:39:52
+distance:159
+
+result tid:814
+start time:2015-04-01 22:18:03
+end time:2015-04-01 22:38:04
+distance:174
+
+result tid:609
+start time:2015-04-01 20:53:30
+end time:2015-04-01 21:15:58
+distance:188
+
+#######################################
+query trace:690
+
+result tid:298
+start time:2015-04-01 21:29:58
+end time:2015-04-01 21:39:27
+distance:138
+
+result tid:399
+start time:2015-04-01 22:18:33
+end time:2015-04-01 22:29:16
+distance:142
+
+result tid:257
+start time:2015-04-01 17:58:40
+end time:2015-04-01 18:15:31
+distance:156
+
+result tid:797
+start time:2015-04-01 10:25:26
+end time:2015-04-01 10:40:45
+distance:157
+
+result tid:332
+start time:2015-04-01 09:51:17
+end time:2015-04-01 10:08:52
+distance:161
+
+result tid:714
+start time:2015-04-01 00:26:40
+end time:2015-04-01 00:52:16
+distance:214
+
+#######################################
+query trace:900
+
+result tid:281
+start time:2015-04-01 13:31:38
+end time:2015-04-01 13:43:37
+distance:137
+
+result tid:413
+start time:2015-04-01 01:48:39
+end time:2015-04-01 01:59:33
+distance:144
+
+result tid:853
+start time:2015-04-01 15:00:52
+end time:2015-04-01 15:11:52
+distance:150
+
+result tid:317
+start time:2015-04-01 08:48:02
+end time:2015-04-01 09:01:12
+distance:155
+
+result tid:187
+start time:2015-04-01 15:56:00
+end time:2015-04-01 16:10:08
+distance:156
+
+result tid:123
+start time:2015-04-01 19:30:40
+end time:2015-04-01 19:43:31
+distance:156
+
+result tid:18
+start time:2015-04-01 09:58:38
+end time:2015-04-01 10:16:24
+distance:167
+
+result tid:773
+start time:2015-04-01 08:10:14
+end time:2015-04-01 08:26:34
+distance:170
+
+result tid:58
+start time:2015-04-01 18:18:27
+end time:2015-04-01 18:41:15
+distance:193
+
+result tid:361
+start time:2015-04-01 00:08:57
+end time:2015-04-01 00:28:36
+distance:217
+
+result tid:388
+start time:2015-04-01 01:42:33
+end time:2015-04-01 02:33:25
+distance:336
+
+
+size:12
+
+#######################################
+query trace:15
+
+#######################################
+query trace:250
+
+result tid:113
+start time:2015-04-01 22:05:09
+end time:2015-04-01 22:14:56
+distance:119
+
+result tid:702
+start time:2015-04-01 14:19:08
+end time:2015-04-01 14:33:11
+distance:127
+
+result tid:304
+start time:2015-04-01 15:06:49
+end time:2015-04-01 15:25:07
+distance:162
+
+result tid:7
+start time:2015-04-01 18:00:22
+end time:2015-04-01 18:16:48
+distance:165
+
+#######################################
+query trace:480
+
+result tid:274
+start time:2015-04-01 06:14:56
+end time:2015-04-01 06:24:46
+distance:136
+
+result tid:1
+start time:2015-04-01 12:19:33
+end time:2015-04-01 12:32:54
+distance:140
+
+result tid:243
+start time:2015-04-01 22:55:42
+end time:2015-04-01 23:09:05
+distance:153
+
+result tid:533
+start time:2015-04-01 00:07:37
+end time:2015-04-01 00:23:32
+distance:168
+
+result tid:400
+start time:2015-04-01 22:42:51
+end time:2015-04-01 23:03:52
+distance:202
+
+#######################################
+query trace:690
+
+result tid:535
+start time:2015-04-01 10:11:14
+end time:2015-04-01 10:23:08
+distance:138
+
+#######################################
+query trace:900
+
+
+size:13
+
+#######################################
+query trace:15
+
+#######################################
+query trace:250
+
+result tid:757
+start time:2015-04-01 16:27:23
+end time:2015-04-01 16:39:53
+distance:118
+
+#######################################
+query trace:480
+
+#######################################
+query trace:690
+
+#######################################
+query trace:900
+
+result tid:37
+start time:2015-04-01 09:37:57
+end time:2015-04-01 09:47:49
+distance:146
+
+
+size:14
+
+#######################################
+query trace:15
+
+result tid:780
+start time:2015-04-01 11:07:40
+end time:2015-04-01 11:22:00
+distance:123
+
+#######################################
+query trace:250
+
+result tid:716
+start time:2015-04-01 14:37:50
+end time:2015-04-01 14:47:00
+distance:122
+
+result tid:922
+start time:2015-04-01 15:27:35
+end time:2015-04-01 15:42:59
+distance:150
+
+#######################################
+query trace:480
+
+#######################################
+query trace:690
+
+result tid:516
+start time:2015-04-01 12:45:52
+end time:2015-04-01 12:54:19
+distance:133
+
+#######################################
+query trace:900
+
+
+size:15
+
+#######################################
+query trace:15
+
+result tid:72
+start time:2015-04-01 11:15:49
+end time:2015-04-01 11:26:30
+distance:133
+
+#######################################
+query trace:250
+
+result tid:174
+start time:2015-04-01 20:13:12
+end time:2015-04-01 20:31:58
+distance:137
+
+result tid:604
+start time:2015-04-01 14:53:06
+end time:2015-04-01 15:20:31
+distance:211
+
+#######################################
+query trace:480
+
+result tid:633
+start time:2015-04-01 04:21:23
+end time:2015-04-01 04:32:46
+distance:137
+
+#######################################
+query trace:690
+
+#######################################
+query trace:900
+
+table size:3
+
+///////////////////////////////////////////////////
+///////////////////////////////////////////////////
+Initiallizing......
+Initialization Success!
+Running....
+
+size:10
+
+#######################################
+query trace:15
+
+result tid:706
+start time:2015-04-01 11:15:11
+end time:2015-04-01 11:22:17
+distance:111
+
+result tid:192
+start time:2015-04-01 17:36:44
+end time:2015-04-01 17:47:20
+distance:111
+
+result tid:16
+start time:2015-04-01 15:07:06
+end time:2015-04-01 15:17:34
+distance:112
+
+result tid:588
+start time:2015-04-01 09:08:13
+end time:2015-04-01 09:15:58
+distance:112
+
+result tid:701
+start time:2015-04-01 22:12:38
+end time:2015-04-01 22:22:23
+distance:117
+
+result tid:804
+start time:2015-04-01 10:46:12
+end time:2015-04-01 10:58:01
+distance:122
+
+result tid:226
+start time:2015-04-01 19:31:53
+end time:2015-04-01 19:46:13
+distance:138
+
+result tid:21
+start time:2015-04-01 20:39:12
+end time:2015-04-01 20:51:47
+distance:138
+
+result tid:992
+start time:2015-04-01 04:22:34
+end time:2015-04-01 04:35:41
+distance:141
+
+result tid:978
+start time:2015-04-01 23:30:41
+end time:2015-04-01 23:43:49
+distance:148
+
+result tid:246
+start time:2015-04-01 01:23:25
+end time:2015-04-01 01:39:41
+distance:148
+
+#######################################
+query trace:250
+
+result tid:492
+start time:2015-04-01 20:59:02
+end time:2015-04-01 21:09:48
+distance:120
+
+result tid:882
+start time:2015-04-01 17:21:21
+end time:2015-04-01 17:32:14
+distance:122
+
+result tid:921
+start time:2015-04-01 19:50:23
+end time:2015-04-01 20:01:50
+distance:123
+
+result tid:308
+start time:2015-04-01 21:40:28
+end time:2015-04-01 21:52:47
+distance:123
+
+result tid:366
+start time:2015-04-01 08:38:16
+end time:2015-04-01 08:53:49
+distance:144
+
+result tid:563
+start time:2015-04-01 13:57:16
+end time:2015-04-01 14:16:09
+distance:153
+
+result tid:533
+start time:2015-04-01 00:07:37
+end time:2015-04-01 00:23:32
+distance:161
+
+result tid:216
+start time:2015-04-01 17:41:50
+end time:2015-04-01 17:59:00
+distance:165
+
+result tid:927
+start time:2015-04-01 04:24:15
+end time:2015-04-01 04:45:21
+distance:173
+
+result tid:573
+start time:2015-04-01 09:17:08
+end time:2015-04-01 09:39:06
+distance:192
+
+#######################################
+query trace:480
+
+result tid:451
+start time:2015-04-01 01:43:53
+end time:2015-04-01 01:54:28
+distance:131
+
+result tid:154
+start time:2015-04-01 13:53:03
+end time:2015-04-01 14:03:03
+distance:137
+
+result tid:720
+start time:2015-04-01 05:31:21
+end time:2015-04-01 05:43:36
+distance:138
+
+result tid:76
+start time:2015-04-01 12:55:44
+end time:2015-04-01 13:08:15
+distance:147
+
+result tid:257
+start time:2015-04-01 17:58:40
+end time:2015-04-01 18:15:31
+distance:154
+
+result tid:314
+start time:2015-04-01 13:31:30
+end time:2015-04-01 13:47:35
+distance:154
+
+result tid:265
+start time:2015-04-01 12:20:54
+end time:2015-04-01 12:38:50
+distance:165
+
+result tid:761
+start time:2015-04-01 20:46:26
+end time:2015-04-01 21:03:55
+distance:171
+
+result tid:661
+start time:2015-04-01 15:39:15
+end time:2015-04-01 16:01:56
+distance:199
+
+result tid:501
+start time:2015-04-01 13:56:26
+end time:2015-04-01 14:20:25
+distance:204
+
+result tid:239
+start time:2015-04-01 19:07:49
+end time:2015-04-01 19:44:01
+distance:263
+
+#######################################
+query trace:690
+
+result tid:805
+start time:2015-04-01 12:35:47
+end time:2015-04-01 12:44:08
+distance:133
+
+result tid:144
+start time:2015-04-01 21:40:42
+end time:2015-04-01 21:54:43
+distance:133
+
+result tid:25
+start time:2015-04-01 06:14:10
+end time:2015-04-01 06:24:14
+distance:144
+
+result tid:365
+start time:2015-04-01 21:05:02
+end time:2015-04-01 21:17:28
+distance:144
+
+result tid:562
+start time:2015-04-01 09:14:02
+end time:2015-04-01 09:26:00
+distance:147
+
+result tid:613
+start time:2015-04-01 16:44:27
+end time:2015-04-01 17:01:46
+distance:150
+
+result tid:396
+start time:2015-04-01 05:17:47
+end time:2015-04-01 05:32:42
+distance:150
+
+result tid:118
+start time:2015-04-01 09:01:00
+end time:2015-04-01 09:14:15
+distance:151
+
+result tid:877
+start time:2015-04-01 14:51:30
+end time:2015-04-01 15:05:19
+distance:158
+
+result tid:446
+start time:2015-04-01 21:18:45
+end time:2015-04-01 21:32:32
+distance:159
+
+result tid:373
+start time:2015-04-01 11:56:59
+end time:2015-04-01 12:18:15
+distance:166
+
+result tid:293
+start time:2015-04-01 10:10:41
+end time:2015-04-01 10:27:25
+distance:175
+
+result tid:674
+start time:2015-04-01 20:08:57
+end time:2015-04-01 20:26:48
+distance:176
+
+result tid:724
+start time:2015-04-01 11:33:53
+end time:2015-04-01 12:09:16
+distance:273
+
+#######################################
+query trace:900
+
+result tid:314
+start time:2015-04-01 13:31:30
+end time:2015-04-01 13:47:35
+distance:107
+
+result tid:81
+start time:2015-04-01 14:52:07
+end time:2015-04-01 14:59:44
+distance:148
+
+result tid:612
+start time:2015-04-01 21:03:36
+end time:2015-04-01 21:12:35
+distance:149
+
+result tid:780
+start time:2015-04-01 11:07:40
+end time:2015-04-01 11:22:00
+distance:149
+
+result tid:345
+start time:2015-04-01 10:16:18
+end time:2015-04-01 10:30:36
+distance:150
+
+result tid:129
+start time:2015-04-01 12:20:10
+end time:2015-04-01 12:35:23
+distance:151
+
+result tid:493
+start time:2015-04-01 09:09:45
+end time:2015-04-01 09:23:52
+distance:151
+
+result tid:19
+start time:2015-04-01 16:14:52
+end time:2015-04-01 16:24:35
+distance:153
+
+result tid:782
+start time:2015-04-01 16:12:37
+end time:2015-04-01 16:25:33
+distance:154
+
+result tid:358
+start time:2015-04-01 11:10:15
+end time:2015-04-01 11:30:08
+distance:176
+
+result tid:299
+start time:2015-04-01 16:14:08
+end time:2015-04-01 16:31:25
+distance:176
+
+result tid:86
+start time:2015-04-01 10:56:58
+end time:2015-04-01 11:16:08
+distance:190
+
+result tid:499
+start time:2015-04-01 22:38:11
+end time:2015-04-01 22:58:49
+distance:192
+
+result tid:800
+start time:2015-04-01 18:25:18
+end time:2015-04-01 18:50:45
+distance:211
+
+result tid:852
+start time:2015-04-01 21:12:59
+end time:2015-04-01 21:38:18
+distance:221
+
+result tid:781
+start time:2015-04-01 13:57:43
+end time:2015-04-01 14:23:07
+distance:224
+
+result tid:355
+start time:2015-04-01 09:57:10
+end time:2015-04-01 10:42:36
+distance:314
+
+
+size:11
+
+#######################################
+query trace:15
+
+result tid:720
+start time:2015-04-01 05:31:21
+end time:2015-04-01 05:43:36
+distance:119
+
+result tid:406
+start time:2015-04-01 18:34:25
+end time:2015-04-01 18:48:57
+distance:128
+
+result tid:506
+start time:2015-04-01 12:12:27
+end time:2015-04-01 12:28:00
+distance:134
+
+result tid:790
+start time:2015-04-01 19:55:50
+end time:2015-04-01 20:16:04
+distance:160
+
+result tid:673
+start time:2015-04-01 14:48:49
+end time:2015-04-01 15:07:23
+distance:170
+
+result tid:565
+start time:2015-04-01 12:10:07
+end time:2015-04-01 12:29:34
+distance:173
+
+#######################################
+query trace:250
+
+result tid:516
+start time:2015-04-01 12:45:52
+end time:2015-04-01 12:54:19
+distance:112
+
+result tid:424
+start time:2015-04-01 20:40:20
+end time:2015-04-01 20:51:28
+distance:113
+
+result tid:110
+start time:2015-04-01 14:34:04
+end time:2015-04-01 14:45:34
+distance:128
+
+result tid:199
+start time:2015-04-01 13:43:31
+end time:2015-04-01 13:57:02
+distance:144
+
+result tid:735
+start time:2015-04-01 14:33:21
+end time:2015-04-01 14:50:54
+distance:145
+
+result tid:208
+start time:2015-04-01 15:51:29
+end time:2015-04-01 16:06:20
+distance:146
+
+#######################################
+query trace:480
+
+result tid:677
+start time:2015-04-01 10:26:13
+end time:2015-04-01 10:38:14
+distance:139
+
+result tid:12
+start time:2015-04-01 18:39:52
+end time:2015-04-01 18:50:30
+distance:142
+
+result tid:510
+start time:2015-04-01 19:50:38
+end time:2015-04-01 20:02:57
+distance:145
+
+result tid:738
+start time:2015-04-01 11:34:32
+end time:2015-04-01 11:53:10
+distance:157
+
+result tid:697
+start time:2015-04-01 18:34:17
+end time:2015-04-01 18:50:47
+distance:168
+
+result tid:107
+start time:2015-04-01 22:03:05
+end time:2015-04-01 22:24:14
+distance:195
+
+result tid:457
+start time:2015-04-01 00:25:36
+end time:2015-04-01 01:24:56
+distance:390
+
+#######################################
+query trace:690
+
+result tid:175
+start time:2015-04-01 22:13:25
+end time:2015-04-01 22:24:19
+distance:138
+
+result tid:445
+start time:2015-04-01 13:58:09
+end time:2015-04-01 14:08:16
+distance:142
+
+result tid:557
+start time:2015-04-01 20:42:32
+end time:2015-04-01 20:55:18
+distance:147
+
+result tid:376
+start time:2015-04-01 20:25:31
+end time:2015-04-01 20:38:40
+distance:161
+
+result tid:96
+start time:2015-04-01 11:00:46
+end time:2015-04-01 11:19:14
+distance:162
+
+result tid:437
+start time:2015-04-01 08:24:05
+end time:2015-04-01 08:40:01
+distance:163
+
+result tid:203
+start time:2015-04-01 08:35:31
+end time:2015-04-01 08:54:32
+distance:199
+
+result tid:289
+start time:2015-04-01 10:22:12
+end time:2015-04-01 10:48:20
+distance:220
+
+#######################################
+query trace:900
+
+result tid:833
+start time:2015-04-01 23:51:14
+end time:2015-04-01 23:59:53
+distance:139
+
+result tid:695
+start time:2015-04-01 12:23:00
+end time:2015-04-01 12:37:30
+distance:158
+
+result tid:256
+start time:2015-04-01 13:23:07
+end time:2015-04-01 13:36:56
+distance:167
+
+result tid:252
+start time:2015-04-01 11:20:42
+end time:2015-04-01 11:41:38
+distance:189
+
+result tid:554
+start time:2015-04-01 13:48:25
+end time:2015-04-01 14:08:37
+distance:192
+
+
+size:12
+
+#######################################
+query trace:15
+
+result tid:663
+start time:2015-04-01 09:41:09
+end time:2015-04-01 09:54:16
+distance:115
+
+result tid:143
+start time:2015-04-01 20:37:13
+end time:2015-04-01 20:47:17
+distance:121
+
+result tid:112
+start time:2015-04-01 17:53:24
+end time:2015-04-01 18:06:36
+distance:136
+
+#######################################
+query trace:250
+
+#######################################
+query trace:480
+
+result tid:818
+start time:2015-04-01 16:28:27
+end time:2015-04-01 16:40:30
+distance:140
+
+result tid:190
+start time:2015-04-01 06:18:52
+end time:2015-04-01 06:31:31
+distance:147
+
+#######################################
+query trace:690
+
+result tid:854
+start time:2015-04-01 15:13:12
+end time:2015-04-01 15:25:48
+distance:148
+
+#######################################
+query trace:900
+
+result tid:314
+start time:2015-04-01 13:31:30
+end time:2015-04-01 13:47:35
+distance:107
+
+result tid:624
+start time:2015-04-01 13:16:39
+end time:2015-04-01 13:28:01
+distance:156
+
+result tid:212
+start time:2015-04-01 15:26:45
+end time:2015-04-01 15:38:44
+distance:157
+
+
+size:13
+
+#######################################
+query trace:15
+
+result tid:142
+start time:2015-04-01 18:29:20
+end time:2015-04-01 18:41:47
+distance:119
+
+result tid:198
+start time:2015-04-01 12:57:33
+end time:2015-04-01 13:08:06
+distance:123
+
+result tid:638
+start time:2015-04-01 10:12:07
+end time:2015-04-01 10:25:47
+distance:142
+
+result tid:29
+start time:2015-04-01 09:33:26
+end time:2015-04-01 09:51:15
+distance:152
+
+#######################################
+query trace:250
+
+result tid:884
+start time:2015-04-01 15:25:50
+end time:2015-04-01 15:44:14
+distance:171
+
+#######################################
+query trace:480
+
+result tid:557
+start time:2015-04-01 20:42:32
+end time:2015-04-01 20:55:18
+distance:145
+
+#######################################
+query trace:690
+
+result tid:120
+start time:2015-04-01 16:57:04
+end time:2015-04-01 17:12:54
+distance:169
+
+#######################################
+query trace:900
+
+
+size:14
+
+#######################################
+query trace:15
+
+result tid:683
+start time:2015-04-01 05:56:23
+end time:2015-04-01 06:09:11
+distance:133
+
+result tid:781
+start time:2015-04-01 13:57:43
+end time:2015-04-01 14:23:07
+distance:198
+
+#######################################
+query trace:250
+
+result tid:880
+start time:2015-04-01 12:41:34
+end time:2015-04-01 13:00:32
+distance:164
+
+#######################################
+query trace:480
+
+#######################################
+query trace:690
+
+result tid:449
+start time:2015-04-01 08:35:49
+end time:2015-04-01 08:50:10
+distance:125
+
+#######################################
+query trace:900
+
+result tid:373
+start time:2015-04-01 11:56:59
+end time:2015-04-01 12:18:15
+distance:171
+
+
+size:15
+
+#######################################
+query trace:15
+
+#######################################
+query trace:250
+
+#######################################
+query trace:480
+
+result tid:159
+start time:2015-04-01 13:03:26
+end time:2015-04-01 13:17:31
+distance:158
+
+#######################################
+query trace:690
+
+result tid:642
+start time:2015-04-01 20:21:55
+end time:2015-04-01 20:33:30
+distance:144
+
+#######################################
+query trace:900
+
+result tid:68
+start time:2015-04-01 16:04:27
+end time:2015-04-01 16:21:32
+distance:175
+
+table size:4
+
+///////////////////////////////////////////////////
+///////////////////////////////////////////////////
+Initiallizing......
+Initialization Success!
+Running....
+
+size:10
+
+#######################################
+query trace:15
+
+result tid:888
+start time:2015-04-01 21:39:01
+end time:2015-04-01 21:51:35
+distance:117
+
+result tid:653
+start time:2015-04-01 23:35:37
+end time:2015-04-01 23:45:43
+distance:119
+
+result tid:125
+start time:2015-04-01 06:09:57
+end time:2015-04-01 06:21:36
+distance:122
+
+result tid:418
+start time:2015-04-01 19:55:01
+end time:2015-04-01 20:07:34
+distance:123
+
+result tid:902
+start time:2015-04-01 14:45:50
+end time:2015-04-01 14:56:42
+distance:126
+
+result tid:171
+start time:2015-04-01 19:17:34
+end time:2015-04-01 19:29:55
+distance:132
+
+result tid:434
+start time:2015-04-01 09:38:17
+end time:2015-04-01 09:53:57
+distance:135
+
+result tid:584
+start time:2015-04-01 08:52:15
+end time:2015-04-01 09:09:28
+distance:142
+
+result tid:301
+start time:2015-04-01 05:38:01
+end time:2015-04-01 05:52:20
+distance:152
+
+result tid:889
+start time:2015-04-01 08:25:31
+end time:2015-04-01 08:49:20
+distance:188
+
+result tid:852
+start time:2015-04-01 21:12:59
+end time:2015-04-01 21:38:18
+distance:195
+
+result tid:47
+start time:2015-04-01 13:16:57
+end time:2015-04-01 13:44:14
+distance:207
+
+#######################################
+query trace:250
+
+result tid:936
+start time:2015-04-01 12:53:12
+end time:2015-04-01 12:59:52
+distance:103
+
+result tid:74
+start time:2015-04-01 15:55:41
+end time:2015-04-01 16:02:45
+distance:108
+
+result tid:808
+start time:2015-04-01 19:22:47
+end time:2015-04-01 19:36:51
+distance:121
+
+result tid:490
+start time:2015-04-01 13:22:34
+end time:2015-04-01 13:34:35
+distance:122
+
+result tid:257
+start time:2015-04-01 17:58:40
+end time:2015-04-01 18:15:31
+distance:129
+
+result tid:954
+start time:2015-04-01 11:46:26
+end time:2015-04-01 12:04:14
+distance:132
+
+result tid:96
+start time:2015-04-01 11:00:46
+end time:2015-04-01 11:19:14
+distance:141
+
+result tid:109
+start time:2015-04-01 22:47:57
+end time:2015-04-01 23:01:09
+distance:141
+
+result tid:650
+start time:2015-04-01 11:25:39
+end time:2015-04-01 11:44:20
+distance:154
+
+result tid:58
+start time:2015-04-01 18:18:27
+end time:2015-04-01 18:41:15
+distance:167
+
+#######################################
+query trace:480
+
+result tid:986
+start time:2015-04-01 13:56:19
+end time:2015-04-01 14:06:13
+distance:130
+
+result tid:84
+start time:2015-04-01 17:33:47
+end time:2015-04-01 17:41:05
+distance:133
+
+result tid:737
+start time:2015-04-01 15:13:19
+end time:2015-04-01 15:23:45
+distance:134
+
+result tid:219
+start time:2015-04-01 09:46:22
+end time:2015-04-01 09:56:31
+distance:139
+
+result tid:4
+start time:2015-04-01 20:13:04
+end time:2015-04-01 20:24:09
+distance:141
+
+result tid:287
+start time:2015-04-01 13:54:50
+end time:2015-04-01 14:06:03
+distance:151
+
+result tid:827
+start time:2015-04-01 06:41:02
+end time:2015-04-01 06:52:59
+distance:157
+
+result tid:538
+start time:2015-04-01 17:13:10
+end time:2015-04-01 17:35:53
+distance:175
+
+result tid:745
+start time:2015-04-01 18:28:32
+end time:2015-04-01 18:50:42
+distance:192
+
+result tid:832
+start time:2015-04-01 23:08:55
+end time:2015-04-01 23:30:11
+distance:196
+
+result tid:484
+start time:2015-04-01 13:01:16
+end time:2015-04-01 13:23:46
+distance:205
+
+#######################################
+query trace:690
+
+result tid:84
+start time:2015-04-01 17:33:47
+end time:2015-04-01 17:41:05
+distance:135
+
+result tid:430
+start time:2015-04-01 09:08:01
+end time:2015-04-01 09:18:08
+distance:135
+
+result tid:642
+start time:2015-04-01 20:21:55
+end time:2015-04-01 20:33:30
+distance:144
+
+result tid:967
+start time:2015-04-01 16:03:35
+end time:2015-04-01 16:12:38
+distance:146
+
+result tid:72
+start time:2015-04-01 11:15:49
+end time:2015-04-01 11:26:30
+distance:154
+
+result tid:827
+start time:2015-04-01 06:41:02
+end time:2015-04-01 06:52:59
+distance:155
+
+result tid:311
+start time:2015-04-01 06:25:04
+end time:2015-04-01 06:42:04
+distance:165
+
+result tid:538
+start time:2015-04-01 17:13:10
+end time:2015-04-01 17:35:53
+distance:177
+
+result tid:371
+start time:2015-04-01 00:31:09
+end time:2015-04-01 00:48:11
+distance:179
+
+result tid:155
+start time:2015-04-01 19:06:05
+end time:2015-04-01 19:26:49
+distance:180
+
+result tid:80
+start time:2015-04-01 15:00:51
+end time:2015-04-01 15:18:15
+distance:182
+
+#######################################
+query trace:900
+
+result tid:748
+start time:2015-04-01 12:51:01
+end time:2015-04-01 13:03:24
+distance:140
+
+result tid:241
+start time:2015-04-01 14:13:25
+end time:2015-04-01 14:22:57
+distance:146
+
+result tid:9
+start time:2015-04-01 14:32:06
+end time:2015-04-01 14:42:32
+distance:149
+
+result tid:427
+start time:2015-04-01 07:40:59
+end time:2015-04-01 07:53:00
+distance:150
+
+result tid:627
+start time:2015-04-01 22:47:00
+end time:2015-04-01 22:59:36
+distance:156
+
+result tid:230
+start time:2015-04-01 21:48:39
+end time:2015-04-01 22:05:18
+distance:157
+
+result tid:50
+start time:2015-04-01 12:41:06
+end time:2015-04-01 12:52:39
+distance:159
+
+result tid:53
+start time:2015-04-01 09:46:22
+end time:2015-04-01 09:58:49
+distance:159
+
+result tid:925
+start time:2015-04-01 03:07:05
+end time:2015-04-01 03:21:46
+distance:165
+
+result tid:437
+start time:2015-04-01 08:24:05
+end time:2015-04-01 08:40:01
+distance:168
+
+result tid:705
+start time:2015-04-01 22:15:13
+end time:2015-04-01 22:34:53
+distance:171
+
+result tid:86
+start time:2015-04-01 10:56:58
+end time:2015-04-01 11:16:08
+distance:190
+
+
+size:11
+
+#######################################
+query trace:15
+
+result tid:451
+start time:2015-04-01 01:43:53
+end time:2015-04-01 01:54:28
+distance:112
+
+result tid:90
+start time:2015-04-01 20:45:12
+end time:2015-04-01 20:54:03
+distance:114
+
+result tid:157
+start time:2015-04-01 01:24:20
+end time:2015-04-01 01:34:18
+distance:118
+
+result tid:3
+start time:2015-04-01 15:51:44
+end time:2015-04-01 16:02:50
+distance:120
+
+result tid:188
+start time:2015-04-01 10:00:58
+end time:2015-04-01 10:14:23
+distance:122
+
+result tid:429
+start time:2015-04-01 08:48:32
+end time:2015-04-01 09:01:41
+distance:123
+
+result tid:732
+start time:2015-04-01 00:19:51
+end time:2015-04-01 00:32:22
+distance:124
+
+result tid:692
+start time:2015-04-01 16:45:18
+end time:2015-04-01 16:59:30
+distance:126
+
+result tid:590
+start time:2015-04-01 12:20:37
+end time:2015-04-01 12:42:25
+distance:149
+
+#######################################
+query trace:250
+
+result tid:11
+start time:2015-04-01 18:26:36
+end time:2015-04-01 18:38:42
+distance:114
+
+result tid:59
+start time:2015-04-01 14:27:48
+end time:2015-04-01 14:37:57
+distance:122
+
+result tid:380
+start time:2015-04-01 10:26:19
+end time:2015-04-01 10:37:50
+distance:126
+
+result tid:139
+start time:2015-04-01 17:56:48
+end time:2015-04-01 18:12:16
+distance:132
+
+result tid:33
+start time:2015-04-01 15:38:24
+end time:2015-04-01 15:47:39
+distance:136
+
+result tid:985
+start time:2015-04-01 13:26:56
+end time:2015-04-01 13:45:34
+distance:170
+
+#######################################
+query trace:480
+
+result tid:788
+start time:2015-04-01 10:57:31
+end time:2015-04-01 11:08:33
+distance:138
+
+result tid:979
+start time:2015-04-01 09:27:22
+end time:2015-04-01 09:41:15
+distance:139
+
+result tid:399
+start time:2015-04-01 22:18:33
+end time:2015-04-01 22:29:16
+distance:140
+
+result tid:65
+start time:2015-04-01 16:48:12
+end time:2015-04-01 17:04:47
+distance:170
+
+#######################################
+query trace:690
+
+result tid:329
+start time:2015-04-01 13:33:37
+end time:2015-04-01 13:44:48
+distance:137
+
+result tid:701
+start time:2015-04-01 22:12:38
+end time:2015-04-01 22:22:23
+distance:138
+
+result tid:395
+start time:2015-04-01 00:16:51
+end time:2015-04-01 00:26:42
+distance:141
+
+result tid:25
+start time:2015-04-01 06:14:10
+end time:2015-04-01 06:24:14
+distance:144
+
+result tid:439
+start time:2015-04-01 10:19:35
+end time:2015-04-01 10:33:41
+distance:162
+
+result tid:107
+start time:2015-04-01 22:03:05
+end time:2015-04-01 22:24:14
+distance:197
+
+#######################################
+query trace:900
+
+result tid:346
+start time:2015-04-01 11:32:40
+end time:2015-04-01 11:41:40
+distance:144
+
+result tid:116
+start time:2015-04-01 16:12:32
+end time:2015-04-01 16:24:32
+distance:147
+
+result tid:288
+start time:2015-04-01 15:15:27
+end time:2015-04-01 15:27:55
+distance:149
+
+result tid:110
+start time:2015-04-01 14:34:04
+end time:2015-04-01 14:45:34
+distance:154
+
+result tid:22
+start time:2015-04-01 10:51:13
+end time:2015-04-01 11:05:29
+distance:155
+
+result tid:579
+start time:2015-04-01 10:40:52
+end time:2015-04-01 10:57:06
+distance:163
+
+result tid:80
+start time:2015-04-01 15:00:51
+end time:2015-04-01 15:18:15
+distance:187
+
+result tid:405
+start time:2015-04-01 16:02:57
+end time:2015-04-01 16:23:39
+distance:196
+
+result tid:47
+start time:2015-04-01 13:16:57
+end time:2015-04-01 13:44:14
+distance:221
+
+result tid:864
+start time:2015-04-01 12:54:55
+end time:2015-04-01 13:21:34
+distance:233
+
+
+size:12
+
+#######################################
+query trace:15
+
+result tid:161
+start time:2015-04-01 19:50:43
+end time:2015-04-01 20:02:45
+distance:119
+
+#######################################
+query trace:250
+
+result tid:532
+start time:2015-04-01 22:38:41
+end time:2015-04-01 22:52:18
+distance:127
+
+result tid:337
+start time:2015-04-01 12:16:41
+end time:2015-04-01 12:31:55
+distance:139
+
+result tid:96
+start time:2015-04-01 11:00:46
+end time:2015-04-01 11:19:14
+distance:141
+
+#######################################
+query trace:480
+
+result tid:689
+start time:2015-04-01 13:12:45
+end time:2015-04-01 13:23:27
+distance:143
+
+result tid:829
+start time:2015-04-01 15:39:36
+end time:2015-04-01 16:13:11
+distance:232
+
+#######################################
+query trace:690
+
+result tid:628
+start time:2015-04-01 09:45:22
+end time:2015-04-01 10:01:35
+distance:152
+
+result tid:727
+start time:2015-04-01 18:02:27
+end time:2015-04-01 18:19:47
+distance:178
+
+#######################################
+query trace:900
+
+result tid:99
+start time:2015-04-01 14:57:21
+end time:2015-04-01 15:11:11
+distance:141
+
+result tid:820
+start time:2015-04-01 21:06:52
+end time:2015-04-01 21:19:09
+distance:146
+
+
+size:13
+
+#######################################
+query trace:15
+
+result tid:75
+start time:2015-04-01 20:38:10
+end time:2015-04-01 20:46:17
+distance:109
+
+result tid:801
+start time:2015-04-01 23:06:26
+end time:2015-04-01 23:16:44
+distance:123
+
+result tid:234
+start time:2015-04-01 23:08:50
+end time:2015-04-01 23:22:13
+distance:133
+
+#######################################
+query trace:250
+
+result tid:853
+start time:2015-04-01 15:00:52
+end time:2015-04-01 15:11:52
+distance:124
+
+result tid:123
+start time:2015-04-01 19:30:40
+end time:2015-04-01 19:43:31
+distance:130
+
+#######################################
+query trace:480
+
+result tid:581
+start time:2015-04-01 23:08:39
+end time:2015-04-01 23:21:34
+distance:137
+
+result tid:965
+start time:2015-04-01 22:07:21
+end time:2015-04-01 22:22:16
+distance:155
+
+#######################################
+query trace:690
+
+result tid:543
+start time:2015-04-01 20:17:57
+end time:2015-04-01 20:33:29
+distance:147
+
+result tid:884
+start time:2015-04-01 15:25:50
+end time:2015-04-01 15:44:14
+distance:192
+
+#######################################
+query trace:900
+
+result tid:455
+start time:2015-04-01 15:34:26
+end time:2015-04-01 15:55:56
+distance:203
+
+
+size:14
+
+#######################################
+query trace:15
+
+#######################################
+query trace:250
+
+result tid:767
+start time:2015-04-01 19:03:24
+end time:2015-04-01 19:18:25
+distance:129
+
+result tid:230
+start time:2015-04-01 21:48:39
+end time:2015-04-01 22:05:18
+distance:131
+
+#######################################
+query trace:480
+
+#######################################
+query trace:690
+
+result tid:32
+start time:2015-04-01 11:59:48
+end time:2015-04-01 12:11:28
+distance:151
+
+result tid:895
+start time:2015-04-01 00:38:55
+end time:2015-04-01 00:56:38
+distance:172
+
+#######################################
+query trace:900
+
+result tid:118
+start time:2015-04-01 09:01:00
+end time:2015-04-01 09:14:15
+distance:156
+
+
+size:15
+
+#######################################
+query trace:15
+
+#######################################
+query trace:250
+
+result tid:767
+start time:2015-04-01 19:03:24
+end time:2015-04-01 19:18:25
+distance:129
+
+#######################################
+query trace:480
+
+#######################################
+query trace:690
+
+result tid:746
+start time:2015-04-01 09:17:04
+end time:2015-04-01 09:42:59
+distance:201
+
+#######################################
+query trace:900
+
+table size:5
+
+///////////////////////////////////////////////////
+///////////////////////////////////////////////////
+Initiallizing......
+Initialization Success!
+Running....
+
+size:10
+
+#######################################
+query trace:15
+
+result tid:491
+start time:2015-04-01 15:28:36
+end time:2015-04-01 15:40:42
+distance:114
+
+result tid:529
+start time:2015-04-01 20:44:39
+end time:2015-04-01 20:56:23
+distance:117
+
+result tid:418
+start time:2015-04-01 19:55:01
+end time:2015-04-01 20:07:34
+distance:123
+
+result tid:612
+start time:2015-04-01 21:03:36
+end time:2015-04-01 21:12:35
+distance:123
+
+result tid:382
+start time:2015-04-01 09:16:13
+end time:2015-04-01 09:29:29
+distance:124
+
+result tid:831
+start time:2015-04-01 21:03:58
+end time:2015-04-01 21:14:40
+distance:126
+
+result tid:321
+start time:2015-04-01 12:16:21
+end time:2015-04-01 12:32:53
+distance:130
+
+result tid:408
+start time:2015-04-01 22:26:59
+end time:2015-04-01 22:42:04
+distance:137
+
+result tid:872
+start time:2015-04-01 11:15:07
+end time:2015-04-01 11:29:28
+distance:141
+
+result tid:102
+start time:2015-04-01 23:23:43
+end time:2015-04-01 23:40:29
+distance:147
+
+result tid:68
+start time:2015-04-01 16:04:27
+end time:2015-04-01 16:21:32
+distance:149
+
+result tid:657
+start time:2015-04-01 19:47:21
+end time:2015-04-01 20:07:29
+distance:152
+
+result tid:635
+start time:2015-04-01 08:33:31
+end time:2015-04-01 08:49:57
+distance:154
+
+#######################################
+query trace:250
+
+result tid:677
+start time:2015-04-01 10:26:13
+end time:2015-04-01 10:38:14
+distance:120
+
+result tid:54
+start time:2015-04-01 16:08:19
+end time:2015-04-01 16:18:23
+distance:129
+
+result tid:294
+start time:2015-04-01 12:47:01
+end time:2015-04-01 13:00:21
+distance:139
+
+result tid:568
+start time:2015-04-01 05:45:56
+end time:2015-04-01 06:01:53
+distance:156
+
+#######################################
+query trace:480
+
+result tid:844
+start time:2015-04-01 01:14:03
+end time:2015-04-01 01:25:19
+distance:134
+
+result tid:826
+start time:2015-04-01 17:14:47
+end time:2015-04-01 17:27:13
+distance:136
+
+result tid:37
+start time:2015-04-01 09:37:57
+end time:2015-04-01 09:47:49
+distance:139
+
+result tid:69
+start time:2015-04-01 19:09:21
+end time:2015-04-01 19:18:39
+distance:142
+
+result tid:266
+start time:2015-04-01 13:43:46
+end time:2015-04-01 13:57:05
+distance:142
+
+result tid:187
+start time:2015-04-01 15:56:00
+end time:2015-04-01 16:10:08
+distance:149
+
+result tid:82
+start time:2015-04-01 17:41:25
+end time:2015-04-01 17:54:39
+distance:156
+
+result tid:610
+start time:2015-04-01 17:27:57
+end time:2015-04-01 17:43:56
+distance:157
+
+result tid:955
+start time:2015-04-01 12:26:30
+end time:2015-04-01 12:39:52
+distance:159
+
+result tid:507
+start time:2015-04-01 13:18:58
+end time:2015-04-01 13:36:16
+distance:165
+
+result tid:326
+start time:2015-04-01 09:17:59
+end time:2015-04-01 09:37:51
+distance:179
+
+result tid:795
+start time:2015-04-01 03:00:44
+end time:2015-04-01 03:22:27
+distance:192
+
+result tid:791
+start time:2015-04-01 21:31:09
+end time:2015-04-01 21:59:01
+distance:243
+
+#######################################
+query trace:690
+
+result tid:737
+start time:2015-04-01 15:13:19
+end time:2015-04-01 15:23:45
+distance:136
+
+result tid:542
+start time:2015-04-01 19:50:33
+end time:2015-04-01 20:02:21
+distance:138
+
+result tid:132
+start time:2015-04-01 15:45:26
+end time:2015-04-01 15:56:19
+distance:142
+
+result tid:808
+start time:2015-04-01 19:22:47
+end time:2015-04-01 19:36:51
+distance:142
+
+result tid:309
+start time:2015-04-01 21:53:57
+end time:2015-04-01 22:07:09
+distance:148
+
+result tid:530
+start time:2015-04-01 10:55:13
+end time:2015-04-01 11:11:36
+distance:158
+
+result tid:120
+start time:2015-04-01 16:57:04
+end time:2015-04-01 17:12:54
+distance:169
+
+result tid:814
+start time:2015-04-01 22:18:03
+end time:2015-04-01 22:38:04
+distance:176
+
+#######################################
+query trace:900
+
+result tid:595
+start time:2015-04-01 16:04:46
+end time:2015-04-01 16:16:04
+distance:146
+
+result tid:681
+start time:2015-04-01 20:56:10
+end time:2015-04-01 21:07:00
+distance:146
+
+result tid:221
+start time:2015-04-01 14:17:47
+end time:2015-04-01 14:32:35
+distance:149
+
+result tid:123
+start time:2015-04-01 19:30:40
+end time:2015-04-01 19:43:31
+distance:156
+
+result tid:632
+start time:2015-04-01 03:36:53
+end time:2015-04-01 03:50:46
+distance:158
+
+result tid:435
+start time:2015-04-01 10:07:00
+end time:2015-04-01 10:19:23
+distance:160
+
+result tid:21
+start time:2015-04-01 20:39:12
+end time:2015-04-01 20:51:47
+distance:164
+
+result tid:18
+start time:2015-04-01 09:58:38
+end time:2015-04-01 10:16:24
+distance:167
+
+
+size:11
+
+#######################################
+query trace:15
+
+result tid:988
+start time:2015-04-01 15:53:28
+end time:2015-04-01 16:04:08
+distance:115
+
+result tid:869
+start time:2015-04-01 01:17:29
+end time:2015-04-01 01:28:14
+distance:116
+
+result tid:204
+start time:2015-04-01 12:36:43
+end time:2015-04-01 13:01:17
+distance:203
+
+result tid:859
+start time:2015-04-01 10:25:09
+end time:2015-04-01 11:00:55
+distance:239
+
+#######################################
+query trace:250
+
+result tid:731
+start time:2015-04-01 17:58:17
+end time:2015-04-01 18:10:10
+distance:117
+
+result tid:601
+start time:2015-04-01 11:55:55
+end time:2015-04-01 12:06:06
+distance:119
+
+result tid:681
+start time:2015-04-01 20:56:10
+end time:2015-04-01 21:07:00
+distance:122
+
+result tid:456
+start time:2015-04-01 17:02:27
+end time:2015-04-01 17:14:56
+distance:124
+
+result tid:659
+start time:2015-04-01 12:48:32
+end time:2015-04-01 13:02:17
+distance:130
+
+result tid:147
+start time:2015-04-01 19:43:46
+end time:2015-04-01 19:58:15
+distance:143
+
+#######################################
+query trace:480
+
+result tid:614
+start time:2015-04-01 22:43:39
+end time:2015-04-01 22:54:03
+distance:136
+
+result tid:716
+start time:2015-04-01 14:37:50
+end time:2015-04-01 14:47:00
+distance:141
+
+result tid:851
+start time:2015-04-01 18:53:37
+end time:2015-04-01 19:11:12
+distance:151
+
+result tid:966
+start time:2015-04-01 15:26:17
+end time:2015-04-01 15:41:58
+distance:170
+
+result tid:216
+start time:2015-04-01 17:41:50
+end time:2015-04-01 17:59:00
+distance:184
+
+#######################################
+query trace:690
+
+result tid:415
+start time:2015-04-01 18:00:29
+end time:2015-04-01 18:07:23
+distance:127
+
+result tid:228
+start time:2015-04-01 06:43:54
+end time:2015-04-01 06:56:26
+distance:152
+
+result tid:287
+start time:2015-04-01 13:54:50
+end time:2015-04-01 14:06:03
+distance:153
+
+result tid:332
+start time:2015-04-01 09:51:17
+end time:2015-04-01 10:08:52
+distance:161
+
+result tid:213
+start time:2015-04-01 02:19:40
+end time:2015-04-01 02:34:10
+distance:170
+
+result tid:135
+start time:2015-04-01 00:41:46
+end time:2015-04-01 01:07:50
+distance:188
+
+#######################################
+query trace:900
+
+result tid:348
+start time:2015-04-01 18:53:58
+end time:2015-04-01 19:13:39
+distance:168
+
+result tid:923
+start time:2015-04-01 21:51:04
+end time:2015-04-01 22:07:18
+distance:180
+
+
+size:12
+
+#######################################
+query trace:15
+
+result tid:463
+start time:2015-04-01 11:51:22
+end time:2015-04-01 12:05:39
+distance:124
+
+result tid:902
+start time:2015-04-01 14:45:50
+end time:2015-04-01 14:56:42
+distance:126
+
+result tid:370
+start time:2015-04-01 13:20:10
+end time:2015-04-01 13:34:18
+distance:129
+
+result tid:22
+start time:2015-04-01 10:51:13
+end time:2015-04-01 11:05:29
+distance:129
+
+result tid:792
+start time:2015-04-01 19:58:15
+end time:2015-04-01 20:10:36
+distance:132
+
+result tid:446
+start time:2015-04-01 21:18:45
+end time:2015-04-01 21:32:32
+distance:138
+
+#######################################
+query trace:250
+
+result tid:119
+start time:2015-04-01 12:42:26
+end time:2015-04-01 12:55:15
+distance:121
+
+result tid:570
+start time:2015-04-01 15:11:51
+end time:2015-04-01 15:23:11
+distance:121
+
+result tid:130
+start time:2015-04-01 16:23:39
+end time:2015-04-01 16:39:49
+distance:133
+
+result tid:991
+start time:2015-04-01 03:06:18
+end time:2015-04-01 03:24:48
+distance:156
+
+#######################################
+query trace:480
+
+result tid:718
+start time:2015-04-01 23:49:35
+end time:2015-04-01 23:59:52
+distance:136
+
+result tid:754
+start time:2015-04-01 10:40:10
+end time:2015-04-01 10:53:32
+distance:145
+
+#######################################
+query trace:690
+
+result tid:340
+start time:2015-04-01 20:54:06
+end time:2015-04-01 21:07:34
+distance:143
+
+result tid:780
+start time:2015-04-01 11:07:40
+end time:2015-04-01 11:22:00
+distance:144
+
+result tid:559
+start time:2015-03-31 23:59:54
+end time:2015-04-01 00:22:22
+distance:217
+
+#######################################
+query trace:900
+
+result tid:82
+start time:2015-04-01 17:41:25
+end time:2015-04-01 17:54:39
+distance:163
+
+
+size:13
+
+#######################################
+query trace:15
+
+result tid:280
+start time:2015-04-01 22:33:55
+end time:2015-04-01 22:46:43
+distance:128
+
+#######################################
+query trace:250
+
+#######################################
+query trace:480
+
+result tid:706
+start time:2015-04-01 11:15:11
+end time:2015-04-01 11:22:17
+distance:130
+
+#######################################
+query trace:690
+
+#######################################
+query trace:900
+
+result tid:820
+start time:2015-04-01 21:06:52
+end time:2015-04-01 21:19:09
+distance:146
+
+result tid:270
+start time:2015-04-01 14:44:11
+end time:2015-04-01 14:58:51
+distance:167
+
+
+size:14
+
+#######################################
+query trace:15
+
+#######################################
+query trace:250
+
+#######################################
+query trace:480
+
+result tid:87
+start time:2015-04-01 13:05:12
+end time:2015-04-01 13:15:36
+distance:144
+
+#######################################
+query trace:690
+
+#######################################
+query trace:900
+
+
+size:15
+
+#######################################
+query trace:15
+
+#######################################
+query trace:250
+
+result tid:422
+start time:2015-04-01 11:43:13
+end time:2015-04-01 11:55:56
+distance:117
+
+#######################################
+query trace:480
+
+result tid:35
+start time:2015-04-01 13:57:37
+end time:2015-04-01 14:11:39
+distance:152
+
+#######################################
+query trace:690
+
+#######################################
+query trace:900
+
+table size:6
+
+///////////////////////////////////////////////////
+///////////////////////////////////////////////////
+Initiallizing......
+Initialization Success!
+Running....
+
+size:10
+
+#######################################
+query trace:15
+
+result tid:415
+start time:2015-04-01 18:00:29
+end time:2015-04-01 18:07:23
+distance:106
+
+result tid:606
+start time:2015-04-01 16:39:56
+end time:2015-04-01 16:49:32
+distance:109
+
+result tid:84
+start time:2015-04-01 17:33:47
+end time:2015-04-01 17:41:05
+distance:114
+
+result tid:581
+start time:2015-04-01 23:08:39
+end time:2015-04-01 23:21:34
+distance:118
+
+result tid:142
+start time:2015-04-01 18:29:20
+end time:2015-04-01 18:41:47
+distance:119
+
+result tid:344
+start time:2015-04-01 05:52:53
+end time:2015-04-01 06:04:49
+distance:119
+
+result tid:996
+start time:2015-04-01 07:21:46
+end time:2015-04-01 07:33:25
+distance:120
+
+result tid:666
+start time:2015-04-01 12:10:37
+end time:2015-04-01 12:23:37
+distance:121
+
+result tid:236
+start time:2015-04-01 14:10:11
+end time:2015-04-01 14:21:46
+distance:124
+
+result tid:427
+start time:2015-04-01 07:40:59
+end time:2015-04-01 07:53:00
+distance:124
+
+result tid:971
+start time:2015-04-01 07:17:22
+end time:2015-04-01 07:30:24
+distance:125
+
+result tid:237
+start time:2015-04-01 14:56:15
+end time:2015-04-01 15:13:51
+distance:148
+
+result tid:303
+start time:2015-04-01 08:19:12
+end time:2015-04-01 08:51:18
+distance:233
+
+#######################################
+query trace:250
+
+result tid:372
+start time:2015-04-01 06:57:02
+end time:2015-04-01 07:07:48
+distance:111
+
+result tid:861
+start time:2015-04-01 13:14:02
+end time:2015-04-01 13:22:22
+distance:112
+
+result tid:157
+start time:2015-04-01 01:24:20
+end time:2015-04-01 01:34:18
+distance:114
+
+result tid:148
+start time:2015-04-01 22:44:13
+end time:2015-04-01 22:55:29
+distance:118
+
+result tid:470
+start time:2015-04-01 13:12:17
+end time:2015-04-01 13:24:08
+distance:120
+
+result tid:968
+start time:2015-04-01 18:26:48
+end time:2015-04-01 18:39:16
+distance:123
+
+result tid:671
+start time:2015-04-01 14:55:32
+end time:2015-04-01 15:08:22
+distance:126
+
+result tid:187
+start time:2015-04-01 15:56:00
+end time:2015-04-01 16:10:08
+distance:128
+
+result tid:327
+start time:2015-04-01 21:45:44
+end time:2015-04-01 21:58:41
+distance:132
+
+result tid:290
+start time:2015-04-01 13:32:41
+end time:2015-04-01 13:45:34
+distance:133
+
+result tid:478
+start time:2015-04-01 16:54:00
+end time:2015-04-01 17:10:49
+distance:137
+
+#######################################
+query trace:480
+
+result tid:686
+start time:2015-04-01 22:20:50
+end time:2015-04-01 22:33:50
+distance:135
+
+result tid:733
+start time:2015-04-01 01:09:51
+end time:2015-04-01 01:20:27
+distance:137
+
+result tid:117
+start time:2015-04-01 08:30:34
+end time:2015-04-01 08:41:41
+distance:142
+
+result tid:560
+start time:2015-04-01 00:40:50
+end time:2015-04-01 00:50:37
+distance:143
+
+result tid:853
+start time:2015-04-01 15:00:52
+end time:2015-04-01 15:11:52
+distance:143
+
+result tid:611
+start time:2015-04-01 08:20:04
+end time:2015-04-01 08:34:00
+distance:143
+
+result tid:404
+start time:2015-04-01 08:56:57
+end time:2015-04-01 09:10:02
+distance:145
+
+result tid:725
+start time:2015-04-01 13:07:57
+end time:2015-04-01 13:18:26
+distance:145
+
+result tid:652
+start time:2015-04-01 22:38:06
+end time:2015-04-01 22:51:19
+distance:145
+
+result tid:597
+start time:2015-04-01 05:22:44
+end time:2015-04-01 05:36:41
+distance:146
+
+result tid:94
+start time:2015-04-01 18:29:07
+end time:2015-04-01 18:48:18
+distance:158
+
+result tid:402
+start time:2015-04-01 16:09:51
+end time:2015-04-01 16:26:22
+distance:169
+
+#######################################
+query trace:690
+
+result tid:491
+start time:2015-04-01 15:28:36
+end time:2015-04-01 15:40:42
+distance:135
+
+result tid:893
+start time:2015-04-01 13:33:06
+end time:2015-04-01 13:43:10
+distance:137
+
+result tid:73
+start time:2015-04-01 20:35:57
+end time:2015-04-01 20:47:58
+distance:140
+
+result tid:207
+start time:2015-04-01 14:30:35
+end time:2015-04-01 14:43:07
+distance:141
+
+result tid:596
+start time:2015-04-01 04:33:12
+end time:2015-04-01 04:44:41
+distance:142
+
+result tid:965
+start time:2015-04-01 22:07:21
+end time:2015-04-01 22:22:16
+distance:157
+
+result tid:541
+start time:2015-04-01 23:10:47
+end time:2015-04-01 23:27:53
+distance:159
+
+result tid:376
+start time:2015-04-01 20:25:31
+end time:2015-04-01 20:38:40
+distance:161
+
+result tid:232
+start time:2015-04-01 00:00:02
+end time:2015-04-01 00:20:00
+distance:171
+
+result tid:898
+start time:2015-04-01 14:46:29
+end time:2015-04-01 15:21:46
+distance:256
+
+#######################################
+query trace:900
+
+result tid:389
+start time:2015-04-01 05:34:35
+end time:2015-04-01 05:45:00
+distance:139
+
+result tid:224
+start time:2015-04-01 20:29:59
+end time:2015-04-01 20:43:15
+distance:139
+
+result tid:844
+start time:2015-04-01 01:14:03
+end time:2015-04-01 01:25:19
+distance:141
+
+result tid:672
+start time:2015-04-01 09:33:44
+end time:2015-04-01 09:43:45
+distance:142
+
+result tid:329
+start time:2015-04-01 13:33:37
+end time:2015-04-01 13:44:48
+distance:142
+
+result tid:334
+start time:2015-04-01 15:01:29
+end time:2015-04-01 15:13:02
+distance:145
+
+result tid:138
+start time:2015-04-01 23:46:40
+end time:2015-04-01 23:56:32
+distance:145
+
+result tid:698
+start time:2015-04-01 20:38:07
+end time:2015-04-01 20:51:11
+distance:147
+
+result tid:467
+start time:2015-04-01 07:46:40
+end time:2015-04-01 08:01:14
+distance:155
+
+result tid:637
+start time:2015-04-01 09:55:50
+end time:2015-04-01 10:08:09
+distance:155
+
+result tid:93
+start time:2015-04-01 14:14:44
+end time:2015-04-01 14:29:13
+distance:158
+
+result tid:226
+start time:2015-04-01 19:31:53
+end time:2015-04-01 19:46:13
+distance:164
+
+result tid:886
+start time:2015-04-01 19:10:44
+end time:2015-04-01 19:27:55
+distance:168
+
+result tid:140
+start time:2015-04-01 19:28:57
+end time:2015-04-01 19:44:34
+distance:173
+
+result tid:761
+start time:2015-04-01 20:46:26
+end time:2015-04-01 21:03:55
+distance:178
+
+result tid:847
+start time:2015-04-01 11:40:18
+end time:2015-04-01 12:01:22
+distance:216
+
+
+size:11
+
+#######################################
+query trace:15
+
+result tid:75
+start time:2015-04-01 20:38:10
+end time:2015-04-01 20:46:17
+distance:109
+
+result tid:823
+start time:2015-04-01 10:04:40
+end time:2015-04-01 10:16:02
+distance:114
+
+result tid:346
+start time:2015-04-01 11:32:40
+end time:2015-04-01 11:41:40
+distance:118
+
+result tid:854
+start time:2015-04-01 15:13:12
+end time:2015-04-01 15:25:48
+distance:127
+
+result tid:481
+start time:2015-04-01 00:50:34
+end time:2015-04-01 01:04:17
+distance:133
+
+result tid:530
+start time:2015-04-01 10:55:13
+end time:2015-04-01 11:11:36
+distance:137
+
+#######################################
+query trace:250
+
+result tid:395
+start time:2015-04-01 00:16:51
+end time:2015-04-01 00:26:42
+distance:120
+
+result tid:115
+start time:2015-04-01 12:14:31
+end time:2015-04-01 12:37:53
+distance:172
+
+#######################################
+query trace:480
+
+result tid:603
+start time:2015-04-01 09:24:38
+end time:2015-04-01 09:32:06
+distance:119
+
+result tid:166
+start time:2015-04-01 15:22:08
+end time:2015-04-01 15:31:45
+distance:134
+
+result tid:465
+start time:2015-04-01 18:53:12
+end time:2015-04-01 19:04:25
+distance:137
+
+result tid:904
+start time:2015-04-01 00:55:31
+end time:2015-04-01 01:08:29
+distance:141
+
+result tid:764
+start time:2015-04-01 14:48:36
+end time:2015-04-01 15:02:11
+distance:144
+
+result tid:409
+start time:2015-04-01 23:17:13
+end time:2015-04-01 23:28:57
+distance:144
+
+result tid:373
+start time:2015-04-01 11:56:59
+end time:2015-04-01 12:18:15
+distance:164
+
+result tid:466
+start time:2015-04-01 19:56:29
+end time:2015-04-01 20:15:24
+distance:196
+
+#######################################
+query trace:690
+
+result tid:988
+start time:2015-04-01 15:53:28
+end time:2015-04-01 16:04:08
+distance:136
+
+result tid:787
+start time:2015-04-01 09:23:09
+end time:2015-04-01 09:34:57
+distance:136
+
+result tid:535
+start time:2015-04-01 10:11:14
+end time:2015-04-01 10:23:08
+distance:138
+
+result tid:826
+start time:2015-04-01 17:14:47
+end time:2015-04-01 17:27:13
+distance:138
+
+result tid:785
+start time:2015-04-01 10:13:23
+end time:2015-04-01 10:28:53
+distance:149
+
+result tid:656
+start time:2015-04-01 19:12:20
+end time:2015-04-01 19:23:27
+distance:151
+
+result tid:811
+start time:2015-04-01 15:51:54
+end time:2015-04-01 16:10:52
+distance:161
+
+result tid:279
+start time:2015-04-01 14:24:56
+end time:2015-04-01 14:40:17
+distance:170
+
+result tid:319
+start time:2015-04-01 14:16:00
+end time:2015-04-01 14:38:56
+distance:177
+
+result tid:946
+start time:2015-04-01 12:12:52
+end time:2015-04-01 12:30:51
+distance:183
+
+result tid:436
+start time:2015-04-01 16:35:24
+end time:2015-04-01 16:53:22
+distance:189
+
+#######################################
+query trace:900
+
+result tid:827
+start time:2015-04-01 06:41:02
+end time:2015-04-01 06:52:59
+distance:164
+
+result tid:437
+start time:2015-04-01 08:24:05
+end time:2015-04-01 08:40:01
+distance:168
+
+result tid:922
+start time:2015-04-01 15:27:35
+end time:2015-04-01 15:42:59
+distance:176
+
+result tid:158
+start time:2015-04-01 22:36:03
+end time:2015-04-01 22:54:28
+distance:189
+
+
+size:12
+
+#######################################
+query trace:15
+
+#######################################
+query trace:250
+
+result tid:149
+start time:2015-04-01 08:18:35
+end time:2015-04-01 08:28:20
+distance:120
+
+result tid:768
+start time:2015-04-01 12:22:21
+end time:2015-04-01 12:34:51
+distance:121
+
+result tid:761
+start time:2015-04-01 20:46:26
+end time:2015-04-01 21:03:55
+distance:152
+
+#######################################
+query trace:480
+
+result tid:633
+start time:2015-04-01 04:21:23
+end time:2015-04-01 04:32:46
+distance:137
+
+result tid:145
+start time:2015-04-01 17:21:00
+end time:2015-04-01 17:33:35
+distance:150
+
+result tid:660
+start time:2015-04-01 14:22:31
+end time:2015-04-01 14:35:42
+distance:158
+
+#######################################
+query trace:690
+
+result tid:26
+start time:2015-04-01 12:59:23
+end time:2015-04-01 13:08:14
+distance:140
+
+result tid:797
+start time:2015-04-01 10:25:26
+end time:2015-04-01 10:40:45
+distance:157
+
+result tid:416
+start time:2015-04-01 21:42:25
+end time:2015-04-01 22:00:09
+distance:172
+
+#######################################
+query trace:900
+
+result tid:104
+start time:2015-04-01 14:12:36
+end time:2015-04-01 14:23:53
+distance:143
+
+result tid:83
+start time:2015-04-01 18:26:52
+end time:2015-04-01 18:37:23
+distance:149
+
+
+size:13
+
+#######################################
+query trace:15
+
+result tid:393
+start time:2015-04-01 12:45:06
+end time:2015-04-01 13:01:08
+distance:158
+
+#######################################
+query trace:250
+
+result tid:941
+start time:2015-04-01 05:06:17
+end time:2015-04-01 05:16:53
+distance:128
+
+result tid:590
+start time:2015-04-01 12:20:37
+end time:2015-04-01 12:42:25
+distance:173
+
+#######################################
+query trace:480
+
+result tid:775
+start time:2015-04-01 20:12:03
+end time:2015-04-01 20:27:50
+distance:160
+
+#######################################
+query trace:690
+
+#######################################
+query trace:900
+
+result tid:301
+start time:2015-04-01 05:38:01
+end time:2015-04-01 05:52:20
+distance:178
+
+
+size:14
+
+#######################################
+query trace:15
+
+#######################################
+query trace:250
+
+result tid:44
+start time:2015-04-01 17:57:31
+end time:2015-04-01 18:10:37
+distance:130
+
+result tid:978
+start time:2015-04-01 23:30:41
+end time:2015-04-01 23:43:49
+distance:148
+
+#######################################
+query trace:480
+
+#######################################
+query trace:690
+
+#######################################
+query trace:900
+
+result tid:904
+start time:2015-04-01 00:55:31
+end time:2015-04-01 01:08:29
+distance:148
+
+
+size:15
+
+#######################################
+query trace:15
+
+#######################################
+query trace:250
+
+result tid:664
+start time:2015-04-01 11:38:12
+end time:2015-04-01 11:49:13
+distance:118
+
+#######################################
+query trace:480
+
+result tid:926
+start time:2015-04-01 04:06:43
+end time:2015-04-01 04:16:50
+distance:133
+
+#######################################
+query trace:690
+
+result tid:275
+start time:2015-04-01 22:59:52
+end time:2015-04-01 23:18:40
+distance:182
+
+#######################################
+query trace:900
+
+table size:7
+
+///////////////////////////////////////////////////
+///////////////////////////////////////////////////
+Initiallizing......
+Initialization Success!
+Running....
+
+size:10
+
+#######################################
+query trace:15
+
+result tid:940
+start time:2015-04-01 15:54:49
+end time:2015-04-01 16:03:33
+distance:116
+
+result tid:63
+start time:2015-04-01 19:50:09
+end time:2015-04-01 19:59:17
+distance:119
+
+result tid:928
+start time:2015-04-01 12:09:57
+end time:2015-04-01 12:18:29
+distance:121
+
+result tid:13
+start time:2015-04-01 19:44:25
+end time:2015-04-01 19:54:30
+distance:123
+
+result tid:343
+start time:2015-04-01 02:47:04
+end time:2015-04-01 02:59:20
+distance:125
+
+result tid:894
+start time:2015-04-01 13:49:02
+end time:2015-04-01 14:02:25
+distance:134
+
+result tid:878
+start time:2015-04-01 19:39:49
+end time:2015-04-01 19:51:58
+distance:136
+
+result tid:283
+start time:2015-04-01 10:36:01
+end time:2015-04-01 10:53:57
+distance:139
+
+result tid:237
+start time:2015-04-01 14:56:15
+end time:2015-04-01 15:13:51
+distance:148
+
+result tid:923
+start time:2015-04-01 21:51:04
+end time:2015-04-01 22:07:18
+distance:154
+
+result tid:554
+start time:2015-04-01 13:48:25
+end time:2015-04-01 14:08:37
+distance:168
+
+result tid:494
+start time:2015-04-01 09:29:22
+end time:2015-04-01 09:52:51
+distance:175
+
+result tid:540
+start time:2015-04-01 11:23:13
+end time:2015-04-01 11:42:36
+distance:180
+
+result tid:204
+start time:2015-04-01 12:36:43
+end time:2015-04-01 13:01:17
+distance:203
+
+#######################################
+query trace:250
+
+result tid:963
+start time:2015-04-01 16:31:04
+end time:2015-04-01 16:44:07
+distance:106
+
+result tid:798
+start time:2015-04-01 15:36:00
+end time:2015-04-01 15:45:29
+distance:110
+
+result tid:482
+start time:2015-04-01 07:53:27
+end time:2015-04-01 08:07:04
+distance:116
+
+result tid:426
+start time:2015-04-01 12:57:18
+end time:2015-04-01 13:07:42
+distance:130
+
+result tid:150
+start time:2015-04-01 09:09:17
+end time:2015-04-01 09:21:49
+distance:132
+
+result tid:290
+start time:2015-04-01 13:32:41
+end time:2015-04-01 13:45:34
+distance:133
+
+result tid:738
+start time:2015-04-01 11:34:32
+end time:2015-04-01 11:53:10
+distance:138
+
+result tid:927
+start time:2015-04-01 04:24:15
+end time:2015-04-01 04:45:21
+distance:173
+
+#######################################
+query trace:480
+
+result tid:882
+start time:2015-04-01 17:21:21
+end time:2015-04-01 17:32:14
+distance:141
+
+result tid:702
+start time:2015-04-01 14:19:08
+end time:2015-04-01 14:33:11
+distance:146
+
+result tid:328
+start time:2015-04-01 06:28:40
+end time:2015-04-01 06:41:34
+distance:149
+
+result tid:517
+start time:2015-04-01 13:20:12
+end time:2015-04-01 13:36:15
+distance:165
+
+result tid:626
+start time:2015-04-01 22:25:42
+end time:2015-04-01 22:42:35
+distance:175
+
+result tid:252
+start time:2015-04-01 11:20:42
+end time:2015-04-01 11:41:38
+distance:182
+
+result tid:107
+start time:2015-04-01 22:03:05
+end time:2015-04-01 22:24:14
+distance:195
+
+#######################################
+query trace:690
+
+result tid:796
+start time:2015-04-01 06:26:10
+end time:2015-04-01 06:35:42
+distance:138
+
+result tid:560
+start time:2015-04-01 00:40:50
+end time:2015-04-01 00:50:37
+distance:145
+
+result tid:971
+start time:2015-04-01 07:17:22
+end time:2015-04-01 07:30:24
+distance:146
+
+result tid:886
+start time:2015-04-01 19:10:44
+end time:2015-04-01 19:27:55
+distance:163
+
+result tid:763
+start time:2015-04-01 06:15:23
+end time:2015-04-01 06:31:02
+distance:165
+
+result tid:835
+start time:2015-04-01 13:43:02
+end time:2015-04-01 13:57:14
+distance:165
+
+result tid:279
+start time:2015-04-01 14:24:56
+end time:2015-04-01 14:40:17
+distance:170
+
+result tid:402
+start time:2015-04-01 16:09:51
+end time:2015-04-01 16:26:22
+distance:171
+
+result tid:232
+start time:2015-04-01 00:00:02
+end time:2015-04-01 00:20:00
+distance:171
+
+result tid:625
+start time:2015-04-01 17:26:32
+end time:2015-04-01 17:48:54
+distance:208
+
+#######################################
+query trace:900
+
+result tid:552
+start time:2015-04-01 12:43:57
+end time:2015-04-01 12:54:00
+distance:125
+
+result tid:737
+start time:2015-04-01 15:13:19
+end time:2015-04-01 15:23:45
+distance:141
+
+result tid:357
+start time:2015-04-01 15:56:30
+end time:2015-04-01 16:07:04
+distance:145
+
+result tid:546
+start time:2015-04-01 17:24:39
+end time:2015-04-01 17:35:35
+distance:149
+
+result tid:764
+start time:2015-04-01 14:48:36
+end time:2015-04-01 15:02:11
+distance:151
+
+result tid:327
+start time:2015-04-01 21:45:44
+end time:2015-04-01 21:58:41
+distance:158
+
+result tid:185
+start time:2015-04-01 19:32:25
+end time:2015-04-01 19:45:56
+distance:162
+
+result tid:890
+start time:2015-04-01 13:24:05
+end time:2015-04-01 13:40:55
+distance:176
+
+result tid:293
+start time:2015-04-01 10:10:41
+end time:2015-04-01 10:27:25
+distance:180
+
+result tid:825
+start time:2015-04-01 15:50:46
+end time:2015-04-01 16:10:00
+distance:183
+
+result tid:670
+start time:2015-04-01 19:28:50
+end time:2015-04-01 19:49:28
+distance:184
+
+
+size:11
+
+#######################################
+query trace:15
+
+result tid:855
+start time:2015-04-01 16:11:07
+end time:2015-04-01 16:22:34
+distance:116
+
+result tid:37
+start time:2015-04-01 09:37:57
+end time:2015-04-01 09:47:49
+distance:120
+
+result tid:351
+start time:2015-04-01 15:21:55
+end time:2015-04-01 15:35:06
+distance:121
+
+result tid:19
+start time:2015-04-01 16:14:52
+end time:2015-04-01 16:24:35
+distance:127
+
+result tid:736
+start time:2015-04-01 23:26:47
+end time:2015-04-01 23:46:57
+distance:147
+
+#######################################
+query trace:250
+
+result tid:238
+start time:2015-04-01 18:53:54
+end time:2015-04-01 19:05:39
+distance:118
+
+result tid:357
+start time:2015-04-01 15:56:30
+end time:2015-04-01 16:07:04
+distance:119
+
+result tid:241
+start time:2015-04-01 14:13:25
+end time:2015-04-01 14:22:57
+distance:120
+
+result tid:212
+start time:2015-04-01 15:26:45
+end time:2015-04-01 15:38:44
+distance:131
+
+result tid:924
+start time:2015-04-01 02:49:48
+end time:2015-04-01 03:05:43
+distance:143
+
+result tid:890
+start time:2015-04-01 13:24:05
+end time:2015-04-01 13:40:55
+distance:150
+
+result tid:70
+start time:2015-04-01 11:56:45
+end time:2015-04-01 12:17:45
+distance:164
+
+#######################################
+query trace:480
+
+result tid:542
+start time:2015-04-01 19:50:33
+end time:2015-04-01 20:02:21
+distance:136
+
+result tid:248
+start time:2015-04-01 16:05:24
+end time:2015-04-01 16:19:52
+distance:137
+
+result tid:552
+start time:2015-04-01 12:43:57
+end time:2015-04-01 12:54:00
+distance:138
+
+result tid:713
+start time:2015-04-01 00:13:06
+end time:2015-04-01 00:25:12
+distance:150
+
+result tid:455
+start time:2015-04-01 15:34:26
+end time:2015-04-01 15:55:56
+distance:194
+
+#######################################
+query trace:690
+
+result tid:430
+start time:2015-04-01 09:08:01
+end time:2015-04-01 09:18:08
+distance:135
+
+result tid:663
+start time:2015-04-01 09:41:09
+end time:2015-04-01 09:54:16
+distance:136
+
+result tid:892
+start time:2015-04-01 20:16:11
+end time:2015-04-01 20:27:05
+distance:141
+
+result tid:462
+start time:2015-04-01 11:32:13
+end time:2015-04-01 11:46:52
+distance:146
+
+result tid:23
+start time:2015-04-01 14:33:08
+end time:2015-04-01 14:44:55
+distance:146
+
+result tid:152
+start time:2015-04-01 21:32:40
+end time:2015-04-01 21:47:09
+distance:155
+
+result tid:246
+start time:2015-04-01 01:23:25
+end time:2015-04-01 01:39:41
+distance:169
+
+result tid:485
+start time:2015-04-01 21:49:32
+end time:2015-04-01 22:05:23
+distance:177
+
+result tid:275
+start time:2015-04-01 22:59:52
+end time:2015-04-01 23:18:40
+distance:182
+
+result tid:131
+start time:2015-04-01 15:04:25
+end time:2015-04-01 15:33:17
+distance:233
+
+#######################################
+query trace:900
+
+result tid:202
+start time:2015-04-01 23:11:17
+end time:2015-04-01 23:21:20
+distance:140
+
+result tid:91
+start time:2015-04-01 15:08:28
+end time:2015-04-01 15:17:38
+distance:141
+
+result tid:642
+start time:2015-04-01 20:21:55
+end time:2015-04-01 20:33:30
+distance:149
+
+result tid:562
+start time:2015-04-01 09:14:02
+end time:2015-04-01 09:26:00
+distance:152
+
+result tid:536
+start time:2015-04-01 10:50:37
+end time:2015-04-01 11:02:43
+distance:157
+
+result tid:488
+start time:2015-04-01 10:39:22
+end time:2015-04-01 11:01:26
+distance:196
+
+
+size:12
+
+#######################################
+query trace:15
+
+result tid:623
+start time:2015-04-01 20:18:02
+end time:2015-04-01 20:28:59
+distance:114
+
+result tid:256
+start time:2015-04-01 13:23:07
+end time:2015-04-01 13:36:56
+distance:141
+
+result tid:565
+start time:2015-04-01 12:10:07
+end time:2015-04-01 12:29:34
+distance:173
+
+result tid:203
+start time:2015-04-01 08:35:31
+end time:2015-04-01 08:54:32
+distance:178
+
+result tid:106
+start time:2015-04-01 19:23:24
+end time:2015-04-01 19:46:38
+distance:180
+
+result tid:537
+start time:2015-04-01 13:59:14
+end time:2015-04-01 14:24:01
+distance:186
+
+#######################################
+query trace:250
+
+#######################################
+query trace:480
+
+result tid:136
+start time:2015-04-01 14:34:56
+end time:2015-04-01 14:46:53
+distance:133
+
+result tid:887
+start time:2015-04-01 19:29:26
+end time:2015-04-01 19:41:03
+distance:150
+
+#######################################
+query trace:690
+
+result tid:192
+start time:2015-04-01 17:36:44
+end time:2015-04-01 17:47:20
+distance:132
+
+result tid:424
+start time:2015-04-01 20:40:20
+end time:2015-04-01 20:51:28
+distance:134
+
+result tid:42
+start time:2015-04-01 13:26:59
+end time:2015-04-01 13:41:17
+distance:153
+
+result tid:574
+start time:2015-04-01 10:03:56
+end time:2015-04-01 10:21:39
+distance:159
+
+#######################################
+query trace:900
+
+result tid:446
+start time:2015-04-01 21:18:45
+end time:2015-04-01 21:32:32
+distance:164
+
+result tid:158
+start time:2015-04-01 22:36:03
+end time:2015-04-01 22:54:28
+distance:189
+
+
+size:13
+
+#######################################
+query trace:15
+
+result tid:915
+start time:2015-04-01 20:45:42
+end time:2015-04-01 20:56:17
+distance:126
+
+#######################################
+query trace:250
+
+result tid:849
+start time:2015-04-01 15:15:58
+end time:2015-04-01 15:31:03
+distance:128
+
+result tid:810
+start time:2015-04-01 12:56:50
+end time:2015-04-01 13:13:21
+distance:146
+
+#######################################
+query trace:480
+
+result tid:611
+start time:2015-04-01 08:20:04
+end time:2015-04-01 08:34:00
+distance:143
+
+#######################################
+query trace:690
+
+result tid:305
+start time:2015-04-01 15:48:29
+end time:2015-04-01 15:58:07
+distance:142
+
+result tid:711
+start time:2015-04-01 18:56:32
+end time:2015-04-01 19:11:05
+distance:160
+
+#######################################
+query trace:900
+
+result tid:192
+start time:2015-04-01 17:36:44
+end time:2015-04-01 17:47:20
+distance:137
+
+result tid:179
+start time:2015-04-01 12:31:58
+end time:2015-04-01 12:41:39
+distance:142
+
+result tid:647
+start time:2015-04-01 09:31:52
+end time:2015-04-01 09:45:19
+distance:146
+
+result tid:209
+start time:2015-04-01 16:16:37
+end time:2015-04-01 16:31:27
+distance:186
+
+
+size:14
+
+#######################################
+query trace:15
+
+result tid:153
+start time:2015-04-01 12:10:28
+end time:2015-04-01 12:23:48
+distance:114
+
+#######################################
+query trace:250
+
+#######################################
+query trace:480
+
+#######################################
+query trace:690
+
+#######################################
+query trace:900
+
+
+size:15
+
+#######################################
+query trace:15
+
+#######################################
+query trace:250
+
+#######################################
+query trace:480
+
+result tid:422
+start time:2015-04-01 11:43:13
+end time:2015-04-01 11:55:56
+distance:136
+
+result tid:661
+start time:2015-04-01 15:39:15
+end time:2015-04-01 16:01:56
+distance:199
+
+#######################################
+query trace:690
+
+#######################################
+query trace:900
+
+result tid:344
+start time:2015-04-01 05:52:53
+end time:2015-04-01 06:04:49
+distance:145
+
+result tid:622
+start time:2015-04-01 17:23:48
+end time:2015-04-01 17:37:11
+distance:155
+
+table size:8
+
+///////////////////////////////////////////////////
+///////////////////////////////////////////////////
+Initiallizing......
+Initialization Success!
+Running....
+
+size:10
+
+#######################################
+query trace:15
+
+result tid:202
+start time:2015-04-01 23:11:17
+end time:2015-04-01 23:21:20
+distance:114
+
+result tid:101
+start time:2015-04-01 22:06:52
+end time:2015-04-01 22:19:15
+distance:114
+
+result tid:648
+start time:2015-04-01 10:49:42
+end time:2015-04-01 11:00:43
+distance:116
+
+result tid:142
+start time:2015-04-01 18:29:20
+end time:2015-04-01 18:41:47
+distance:119
+
+result tid:788
+start time:2015-04-01 10:57:31
+end time:2015-04-01 11:08:33
+distance:119
+
+result tid:156
+start time:2015-04-01 20:48:14
+end time:2015-04-01 21:00:04
+distance:125
+
+result tid:50
+start time:2015-04-01 12:41:06
+end time:2015-04-01 12:52:39
+distance:133
+
+result tid:332
+start time:2015-04-01 09:51:17
+end time:2015-04-01 10:08:52
+distance:140
+
+result tid:835
+start time:2015-04-01 13:43:02
+end time:2015-04-01 13:57:14
+distance:144
+
+result tid:216
+start time:2015-04-01 17:41:50
+end time:2015-04-01 17:59:00
+distance:165
+
+result tid:448
+start time:2015-04-01 19:43:59
+end time:2015-04-01 20:11:02
+distance:216
+
+#######################################
+query trace:250
+
+result tid:516
+start time:2015-04-01 12:45:52
+end time:2015-04-01 12:54:19
+distance:112
+
+result tid:206
+start time:2015-04-01 14:09:02
+end time:2015-04-01 14:18:23
+distance:114
+
+result tid:91
+start time:2015-04-01 15:08:28
+end time:2015-04-01 15:17:38
+distance:115
+
+result tid:594
+start time:2015-04-01 15:33:50
+end time:2015-04-01 15:46:29
+distance:116
+
+result tid:298
+start time:2015-04-01 21:29:58
+end time:2015-04-01 21:39:27
+distance:119
+
+result tid:262
+start time:2015-04-01 10:08:08
+end time:2015-04-01 10:24:49
+distance:123
+
+result tid:801
+start time:2015-04-01 23:06:26
+end time:2015-04-01 23:16:44
+distance:123
+
+result tid:525
+start time:2015-04-01 07:58:18
+end time:2015-04-01 08:08:55
+distance:123
+
+result tid:410
+start time:2015-04-01 21:13:31
+end time:2015-04-01 21:24:25
+distance:130
+
+result tid:214
+start time:2015-04-01 14:17:34
+end time:2015-04-01 14:31:49
+distance:137
+
+result tid:530
+start time:2015-04-01 10:55:13
+end time:2015-04-01 11:11:36
+distance:137
+
+result tid:539
+start time:2015-04-01 22:22:19
+end time:2015-04-01 22:37:06
+distance:144
+
+result tid:964
+start time:2015-04-01 21:12:42
+end time:2015-04-01 21:27:33
+distance:145
+
+result tid:464
+start time:2015-04-01 12:12:45
+end time:2015-04-01 12:31:01
+distance:155
+
+result tid:786
+start time:2015-04-01 00:12:35
+end time:2015-04-01 00:30:00
+distance:156
+
+result tid:170
+start time:2015-04-01 17:34:41
+end time:2015-04-01 17:53:00
+distance:159
+
+result tid:252
+start time:2015-04-01 11:20:42
+end time:2015-04-01 11:41:38
+distance:163
+
+result tid:526
+start time:2015-04-01 14:29:52
+end time:2015-04-01 14:51:40
+distance:164
+
+result tid:746
+start time:2015-04-01 09:17:04
+end time:2015-04-01 09:42:59
+distance:180
+
+result tid:760
+start time:2015-04-01 20:23:51
+end time:2015-04-01 20:45:06
+distance:182
+
+result tid:239
+start time:2015-04-01 19:07:49
+end time:2015-04-01 19:44:01
+distance:244
+
+#######################################
+query trace:480
+
+result tid:372
+start time:2015-04-01 06:57:02
+end time:2015-04-01 07:07:48
+distance:130
+
+result tid:685
+start time:2015-04-01 21:07:02
+end time:2015-04-01 21:16:36
+distance:135
+
+result tid:240
+start time:2015-04-01 19:55:40
+end time:2015-04-01 20:05:10
+distance:137
+
+result tid:928
+start time:2015-04-01 12:09:57
+end time:2015-04-01 12:18:29
+distance:140
+
+result tid:527
+start time:2015-04-01 15:04:39
+end time:2015-04-01 15:15:33
+distance:140
+
+result tid:642
+start time:2015-04-01 20:21:55
+end time:2015-04-01 20:33:30
+distance:142
+
+result tid:994
+start time:2015-04-01 10:41:59
+end time:2015-04-01 10:55:45
+distance:153
+
+result tid:591
+start time:2015-04-01 12:52:25
+end time:2015-04-01 13:07:25
+distance:163
+
+result tid:86
+start time:2015-04-01 10:56:58
+end time:2015-04-01 11:16:08
+distance:183
+
+result tid:639
+start time:2015-04-01 13:25:22
+end time:2015-04-01 13:48:10
+distance:202
+
+result tid:385
+start time:2015-04-01 22:11:37
+end time:2015-04-01 22:35:59
+distance:213
+
+result tid:559
+start time:2015-03-31 23:59:54
+end time:2015-04-01 00:22:22
+distance:215
+
+#######################################
+query trace:690
+
+result tid:258
+start time:2015-04-01 22:30:05
+end time:2015-04-01 22:41:05
+distance:140
+
+result tid:681
+start time:2015-04-01 20:56:10
+end time:2015-04-01 21:07:00
+distance:143
+
+result tid:419
+start time:2015-04-01 20:25:12
+end time:2015-04-01 20:39:41
+distance:157
+
+result tid:819
+start time:2015-04-01 19:20:06
+end time:2015-04-01 19:36:39
+distance:164
+
+result tid:302
+start time:2015-04-01 06:31:28
+end time:2015-04-01 07:02:33
+distance:253
+
+#######################################
+query trace:900
+
+result tid:988
+start time:2015-04-01 15:53:28
+end time:2015-04-01 16:04:08
+distance:141
+
+result tid:731
+start time:2015-04-01 17:58:17
+end time:2015-04-01 18:10:10
+distance:141
+
+result tid:601
+start time:2015-04-01 11:55:55
+end time:2015-04-01 12:06:06
+distance:141
+
+result tid:710
+start time:2015-04-01 17:58:24
+end time:2015-04-01 18:06:29
+distance:142
+
+result tid:618
+start time:2015-04-01 09:08:45
+end time:2015-04-01 09:19:38
+distance:146
+
+result tid:4
+start time:2015-04-01 20:13:04
+end time:2015-04-01 20:24:09
+distance:148
+
+result tid:462
+start time:2015-04-01 11:32:13
+end time:2015-04-01 11:46:52
+distance:151
+
+result tid:607
+start time:2015-04-01 06:01:57
+end time:2015-04-01 06:13:35
+distance:151
+
+result tid:652
+start time:2015-04-01 22:38:06
+end time:2015-04-01 22:51:19
+distance:152
+
+result tid:608
+start time:2015-04-01 15:32:47
+end time:2015-04-01 15:48:16
+distance:161
+
+result tid:890
+start time:2015-04-01 13:24:05
+end time:2015-04-01 13:40:55
+distance:176
+
+result tid:306
+start time:2015-04-01 17:54:59
+end time:2015-04-01 18:14:49
+distance:178
+
+result tid:209
+start time:2015-04-01 16:16:37
+end time:2015-04-01 16:31:27
+distance:186
+
+result tid:47
+start time:2015-04-01 13:16:57
+end time:2015-04-01 13:44:14
+distance:221
+
+
+size:11
+
+#######################################
+query trace:15
+
+result tid:778
+start time:2015-04-01 14:49:47
+end time:2015-04-01 15:00:09
+distance:113
+
+result tid:498
+start time:2015-04-01 19:07:33
+end time:2015-04-01 19:17:25
+distance:122
+
+result tid:245
+start time:2015-04-01 20:36:59
+end time:2015-04-01 20:51:48
+distance:133
+
+result tid:33
+start time:2015-04-01 15:38:24
+end time:2015-04-01 15:47:39
+distance:136
+
+result tid:437
+start time:2015-04-01 08:24:05
+end time:2015-04-01 08:40:01
+distance:142
+
+result tid:319
+start time:2015-04-01 14:16:00
+end time:2015-04-01 14:38:56
+distance:156
+
+#######################################
+query trace:250
+
+result tid:988
+start time:2015-04-01 15:53:28
+end time:2015-04-01 16:04:08
+distance:115
+
+result tid:357
+start time:2015-04-01 15:56:30
+end time:2015-04-01 16:07:04
+distance:119
+
+result tid:288
+start time:2015-04-01 15:15:27
+end time:2015-04-01 15:27:55
+distance:123
+
+result tid:94
+start time:2015-04-01 18:29:07
+end time:2015-04-01 18:48:18
+distance:139
+
+result tid:932
+start time:2015-04-01 21:56:46
+end time:2015-04-01 22:18:47
+distance:204
+
+#######################################
+query trace:480
+
+result tid:930
+start time:2015-04-01 07:13:16
+end time:2015-04-01 07:24:08
+distance:137
+
+result tid:664
+start time:2015-04-01 11:38:12
+end time:2015-04-01 11:49:13
+distance:137
+
+result tid:4
+start time:2015-04-01 20:13:04
+end time:2015-04-01 20:24:09
+distance:141
+
+result tid:897
+start time:2015-04-01 07:31:38
+end time:2015-04-01 07:46:51
+distance:159
+
+result tid:891
+start time:2015-04-01 18:03:55
+end time:2015-04-01 18:25:25
+distance:187
+
+result tid:858
+start time:2015-04-01 22:31:30
+end time:2015-04-01 22:53:21
+distance:203
+
+#######################################
+query trace:690
+
+result tid:689
+start time:2015-04-01 13:12:45
+end time:2015-04-01 13:23:27
+distance:145
+
+result tid:151
+start time:2015-04-01 17:05:08
+end time:2015-04-01 17:20:14
+distance:145
+
+result tid:41
+start time:2015-04-01 19:26:39
+end time:2015-04-01 19:41:01
+distance:169
+
+result tid:565
+start time:2015-04-01 12:10:07
+end time:2015-04-01 12:29:34
+distance:194
+
+#######################################
+query trace:900
+
+result tid:166
+start time:2015-04-01 15:22:08
+end time:2015-04-01 15:31:45
+distance:141
+
+result tid:678
+start time:2015-04-01 17:12:16
+end time:2015-04-01 17:20:27
+distance:142
+
+result tid:870
+start time:2015-04-01 14:13:22
+end time:2015-04-01 14:25:01
+distance:148
+
+result tid:227
+start time:2015-04-01 05:22:17
+end time:2015-04-01 05:36:41
+distance:168
+
+result tid:359
+start time:2015-04-01 16:37:48
+end time:2015-04-01 17:00:56
+distance:198
+
+
+size:12
+
+#######################################
+query trace:15
+
+result tid:587
+start time:2015-04-01 22:12:36
+end time:2015-04-01 22:24:39
+distance:115
+
+#######################################
+query trace:250
+
+result tid:334
+start time:2015-04-01 15:01:29
+end time:2015-04-01 15:13:02
+distance:119
+
+result tid:536
+start time:2015-04-01 10:50:37
+end time:2015-04-01 11:02:43
+distance:131
+
+result tid:476
+start time:2015-04-01 11:18:15
+end time:2015-04-01 11:34:16
+distance:137
+
+result tid:726
+start time:2015-04-01 14:40:50
+end time:2015-04-01 14:58:26
+distance:154
+
+result tid:342
+start time:2015-04-01 02:11:17
+end time:2015-04-01 02:32:25
+distance:164
+
+#######################################
+query trace:480
+
+result tid:706
+start time:2015-04-01 11:15:11
+end time:2015-04-01 11:22:17
+distance:130
+
+result tid:580
+start time:2015-04-01 15:11:45
+end time:2015-04-01 15:33:11
+distance:188
+
+#######################################
+query trace:690
+
+result tid:389
+start time:2015-04-01 05:34:35
+end time:2015-04-01 05:45:00
+distance:142
+
+result tid:262
+start time:2015-04-01 10:08:08
+end time:2015-04-01 10:24:49
+distance:144
+
+result tid:36
+start time:2015-04-01 15:40:01
+end time:2015-04-01 15:53:49
+distance:151
+
+result tid:876
+start time:2015-04-01 20:52:09
+end time:2015-04-01 21:09:39
+distance:161
+
+result tid:441
+start time:2015-04-01 09:41:40
+end time:2015-04-01 09:59:03
+distance:180
+
+#######################################
+query trace:900
+
+result tid:81
+start time:2015-04-01 14:52:07
+end time:2015-04-01 14:59:44
+distance:148
+
+result tid:801
+start time:2015-04-01 23:06:26
+end time:2015-04-01 23:16:44
+distance:149
+
+result tid:503
+start time:2015-04-01 09:01:00
+end time:2015-04-01 09:13:11
+distance:158
+
+
+size:13
+
+#######################################
+query trace:15
+
+result tid:223
+start time:2015-04-01 20:14:39
+end time:2015-04-01 20:24:50
+distance:117
+
+result tid:322
+start time:2015-04-01 15:21:46
+end time:2015-04-01 15:31:42
+distance:128
+
+result tid:41
+start time:2015-04-01 19:26:39
+end time:2015-04-01 19:41:01
+distance:148
+
+#######################################
+query trace:250
+
+result tid:552
+start time:2015-04-01 12:43:57
+end time:2015-04-01 12:54:00
+distance:119
+
+result tid:997
+start time:2015-04-01 16:15:57
+end time:2015-04-01 16:31:53
+distance:135
+
+#######################################
+query trace:480
+
+#######################################
+query trace:690
+
+result tid:373
+start time:2015-04-01 11:56:59
+end time:2015-04-01 12:18:15
+distance:166
+
+#######################################
+query trace:900
+
+result tid:803
+start time:2015-04-01 08:11:13
+end time:2015-04-01 08:22:22
+distance:145
+
+result tid:723
+start time:2015-04-01 20:44:45
+end time:2015-04-01 21:02:11
+distance:151
+
+result tid:956
+start time:2015-04-01 12:49:44
+end time:2015-04-01 13:02:01
+distance:162
+
+
+size:14
+
+#######################################
+query trace:15
+
+#######################################
+query trace:250
+
+result tid:566
+start time:2015-04-01 16:23:37
+end time:2015-04-01 16:33:29
+distance:115
+
+result tid:117
+start time:2015-04-01 08:30:34
+end time:2015-04-01 08:41:41
+distance:121
+
+#######################################
+query trace:480
+
+#######################################
+query trace:690
+
+result tid:774
+start time:2015-04-01 10:46:57
+end time:2015-04-01 11:00:01
+distance:143
+
+#######################################
+query trace:900
+
+result tid:534
+start time:2015-04-01 00:42:43
+end time:2015-04-01 00:55:46
+distance:143
+
+result tid:808
+start time:2015-04-01 19:22:47
+end time:2015-04-01 19:36:51
+distance:147
+
+result tid:343
+start time:2015-04-01 02:47:04
+end time:2015-04-01 02:59:20
+distance:151
+
+result tid:287
+start time:2015-04-01 13:54:50
+end time:2015-04-01 14:06:03
+distance:158
+
+
+size:15
+
+#######################################
+query trace:15
+
+result tid:825
+start time:2015-04-01 15:50:46
+end time:2015-04-01 16:10:00
+distance:157
+
+#######################################
+query trace:250
+
+result tid:537
+start time:2015-04-01 13:59:14
+end time:2015-04-01 14:24:01
+distance:186
+
+#######################################
+query trace:480
+
+result tid:237
+start time:2015-04-01 14:56:15
+end time:2015-04-01 15:13:51
+distance:167
+
+#######################################
+query trace:690
+
+result tid:8
+start time:2015-04-01 20:01:10
+end time:2015-04-01 20:14:49
+distance:144
+
+#######################################
+query trace:900
+
+result tid:156
+start time:2015-04-01 20:48:14
+end time:2015-04-01 21:00:04
+distance:151
+
+table size:9
+
+///////////////////////////////////////////////////
+///////////////////////////////////////////////////
+Initiallizing......
+Initialization Success!
+Running....
+
+size:10
+
+#######################################
+query trace:15
+
+result tid:368
+start time:2015-04-01 22:44:07
+end time:2015-04-01 22:52:09
+distance:99
+
+result tid:425
+start time:2015-04-01 21:11:53
+end time:2015-04-01 21:24:35
+distance:110
+
+result tid:940
+start time:2015-04-01 15:54:49
+end time:2015-04-01 16:03:33
+distance:116
+
+result tid:913
+start time:2015-04-01 20:02:35
+end time:2015-04-01 20:16:03
+distance:117
+
+result tid:807
+start time:2015-04-01 18:01:59
+end time:2015-04-01 18:11:45
+distance:120
+
+result tid:445
+start time:2015-04-01 13:58:09
+end time:2015-04-01 14:08:16
+distance:121
+
+result tid:423
+start time:2015-04-01 18:55:01
+end time:2015-04-01 19:09:09
+distance:123
+
+result tid:151
+start time:2015-04-01 17:05:08
+end time:2015-04-01 17:20:14
+distance:124
+
+result tid:173
+start time:2015-04-01 18:31:22
+end time:2015-04-01 18:43:05
+distance:125
+
+result tid:938
+start time:2015-04-01 07:36:33
+end time:2015-04-01 07:48:34
+distance:125
+
+result tid:257
+start time:2015-04-01 17:58:40
+end time:2015-04-01 18:15:31
+distance:135
+
+result tid:434
+start time:2015-04-01 09:38:17
+end time:2015-04-01 09:53:57
+distance:135
+
+result tid:890
+start time:2015-04-01 13:24:05
+end time:2015-04-01 13:40:55
+distance:150
+
+result tid:403
+start time:2015-04-01 20:09:11
+end time:2015-04-01 20:28:56
+distance:151
+
+#######################################
+query trace:250
+
+result tid:648
+start time:2015-04-01 10:49:42
+end time:2015-04-01 11:00:43
+distance:116
+
+result tid:569
+start time:2015-04-01 00:35:54
+end time:2015-04-01 00:45:44
+distance:120
+
+result tid:666
+start time:2015-04-01 12:10:37
+end time:2015-04-01 12:23:37
+distance:121
+
+result tid:642
+start time:2015-04-01 20:21:55
+end time:2015-04-01 20:33:30
+distance:123
+
+result tid:630
+start time:2015-04-01 12:32:29
+end time:2015-04-01 12:45:21
+distance:125
+
+result tid:941
+start time:2015-04-01 05:06:17
+end time:2015-04-01 05:16:53
+distance:128
+
+result tid:261
+start time:2015-04-01 08:46:12
+end time:2015-04-01 08:59:31
+distance:130
+
+result tid:924
+start time:2015-04-01 02:49:48
+end time:2015-04-01 03:05:43
+distance:143
+
+result tid:773
+start time:2015-04-01 08:10:14
+end time:2015-04-01 08:26:34
+distance:144
+
+result tid:455
+start time:2015-04-01 15:34:26
+end time:2015-04-01 15:55:56
+distance:177
+
+#######################################
+query trace:480
+
+result tid:88
+start time:2015-04-01 16:21:12
+end time:2015-04-01 16:32:33
+distance:131
+
+result tid:677
+start time:2015-04-01 10:26:13
+end time:2015-04-01 10:38:14
+distance:139
+
+result tid:20
+start time:2015-04-01 21:51:13
+end time:2015-04-01 21:59:36
+distance:148
+
+result tid:172
+start time:2015-04-01 18:10:24
+end time:2015-04-01 18:23:27
+distance:155
+
+result tid:208
+start time:2015-04-01 15:51:29
+end time:2015-04-01 16:06:20
+distance:165
+
+result tid:310
+start time:2015-04-01 23:26:44
+end time:2015-04-01 23:52:11
+distance:187
+
+result tid:494
+start time:2015-04-01 09:29:22
+end time:2015-04-01 09:52:51
+distance:194
+
+result tid:889
+start time:2015-04-01 08:25:31
+end time:2015-04-01 08:49:20
+distance:201
+
+result tid:679
+start time:2015-04-01 22:16:55
+end time:2015-04-01 22:38:25
+distance:204
+
+result tid:974
+start time:2015-04-01 14:12:48
+end time:2015-04-01 15:00:48
+distance:290
+
+#######################################
+query trace:690
+
+result tid:712
+start time:2015-04-01 20:29:19
+end time:2015-04-01 20:42:57
+distance:139
+
+result tid:326
+start time:2015-04-01 09:17:59
+end time:2015-04-01 09:37:51
+distance:181
+
+result tid:484
+start time:2015-04-01 13:01:16
+end time:2015-04-01 13:23:46
+distance:207
+
+#######################################
+query trace:900
+
+result tid:314
+start time:2015-04-01 13:31:30
+end time:2015-04-01 13:47:35
+distance:107
+
+result tid:297
+start time:2015-04-01 20:24:09
+end time:2015-04-01 20:36:14
+distance:143
+
+result tid:709
+start time:2015-04-01 14:01:57
+end time:2015-04-01 14:11:41
+distance:145
+
+result tid:643
+start time:2015-04-01 21:54:17
+end time:2015-04-01 22:05:47
+distance:147
+
+result tid:976
+start time:2015-04-01 11:42:05
+end time:2015-04-01 11:56:34
+distance:150
+
+result tid:360
+start time:2015-04-01 17:46:40
+end time:2015-04-01 17:59:47
+distance:151
+
+result tid:656
+start time:2015-04-01 19:12:20
+end time:2015-04-01 19:23:27
+distance:156
+
+result tid:419
+start time:2015-04-01 20:25:12
+end time:2015-04-01 20:39:41
+distance:162
+
+result tid:231
+start time:2015-04-01 22:31:57
+end time:2015-04-01 22:49:41
+distance:171
+
+result tid:951
+start time:2015-04-01 11:39:52
+end time:2015-04-01 11:57:12
+distance:172
+
+
+size:11
+
+#######################################
+query trace:15
+
+result tid:606
+start time:2015-04-01 16:39:56
+end time:2015-04-01 16:49:32
+distance:109
+
+result tid:224
+start time:2015-04-01 20:29:59
+end time:2015-04-01 20:43:15
+distance:113
+
+result tid:595
+start time:2015-04-01 16:04:46
+end time:2015-04-01 16:16:04
+distance:120
+
+result tid:365
+start time:2015-04-01 21:05:02
+end time:2015-04-01 21:17:28
+distance:123
+
+result tid:543
+start time:2015-04-01 20:17:57
+end time:2015-04-01 20:33:29
+distance:126
+
+result tid:767
+start time:2015-04-01 19:03:24
+end time:2015-04-01 19:18:25
+distance:129
+
+result tid:984
+start time:2015-04-01 13:00:44
+end time:2015-04-01 13:15:29
+distance:145
+
+result tid:182
+start time:2015-04-01 14:25:32
+end time:2015-04-01 14:43:50
+distance:156
+
+#######################################
+query trace:250
+
+result tid:389
+start time:2015-04-01 05:34:35
+end time:2015-04-01 05:45:00
+distance:121
+
+result tid:382
+start time:2015-04-01 09:16:13
+end time:2015-04-01 09:29:29
+distance:124
+
+result tid:432
+start time:2015-04-01 12:52:01
+end time:2015-04-01 13:07:23
+distance:127
+
+result tid:410
+start time:2015-04-01 21:13:31
+end time:2015-04-01 21:24:25
+distance:130
+
+result tid:259
+start time:2015-04-01 23:02:28
+end time:2015-04-01 23:15:00
+distance:133
+
+result tid:2
+start time:2015-04-01 16:51:05
+end time:2015-04-01 17:04:06
+distance:138
+
+result tid:707
+start time:2015-04-01 11:29:43
+end time:2015-04-01 11:45:03
+distance:148
+
+result tid:158
+start time:2015-04-01 22:36:03
+end time:2015-04-01 22:54:28
+distance:163
+
+result tid:405
+start time:2015-04-01 16:02:57
+end time:2015-04-01 16:23:39
+distance:172
+
+result tid:306
+start time:2015-04-01 17:54:59
+end time:2015-04-01 18:14:49
+distance:174
+
+result tid:868
+start time:2015-04-01 14:33:14
+end time:2015-04-01 14:54:05
+distance:186
+
+#######################################
+query trace:480
+
+result tid:300
+start time:2015-04-01 00:38:20
+end time:2015-04-01 00:47:20
+distance:131
+
+result tid:733
+start time:2015-04-01 01:09:51
+end time:2015-04-01 01:20:27
+distance:137
+
+result tid:95
+start time:2015-04-01 19:49:42
+end time:2015-04-01 19:59:30
+distance:143
+
+result tid:380
+start time:2015-04-01 10:26:19
+end time:2015-04-01 10:37:50
+distance:145
+
+result tid:839
+start time:2015-04-01 19:26:45
+end time:2015-04-01 19:44:27
+distance:172
+
+result tid:361
+start time:2015-04-01 00:08:57
+end time:2015-04-01 00:28:36
+distance:214
+
+#######################################
+query trace:690
+
+result tid:78
+start time:2015-04-01 11:44:25
+end time:2015-04-01 11:55:20
+distance:137
+
+result tid:759
+start time:2015-04-01 19:51:32
+end time:2015-04-01 20:02:24
+distance:144
+
+result tid:462
+start time:2015-04-01 11:32:13
+end time:2015-04-01 11:46:52
+distance:146
+
+result tid:723
+start time:2015-04-01 20:44:45
+end time:2015-04-01 21:02:11
+distance:146
+
+result tid:203
+start time:2015-04-01 08:35:31
+end time:2015-04-01 08:54:32
+distance:199
+
+#######################################
+query trace:900
+
+result tid:75
+start time:2015-04-01 20:38:10
+end time:2015-04-01 20:46:17
+distance:135
+
+result tid:678
+start time:2015-04-01 17:12:16
+end time:2015-04-01 17:20:27
+distance:142
+
+result tid:818
+start time:2015-04-01 16:28:27
+end time:2015-04-01 16:40:30
+distance:147
+
+result tid:320
+start time:2015-04-01 09:03:45
+end time:2015-04-01 09:17:45
+distance:151
+
+result tid:816
+start time:2015-04-01 09:57:55
+end time:2015-04-01 10:10:53
+distance:162
+
+result tid:359
+start time:2015-04-01 16:37:48
+end time:2015-04-01 17:00:56
+distance:198
+
+result tid:100
+start time:2015-04-01 20:06:45
+end time:2015-04-01 20:43:12
+distance:265
+
+
+size:12
+
+#######################################
+query trace:15
+
+result tid:195
+start time:2015-04-01 06:13:42
+end time:2015-04-01 06:25:34
+distance:125
+
+result tid:511
+start time:2015-04-01 11:11:55
+end time:2015-04-01 11:28:33
+distance:148
+
+#######################################
+query trace:250
+
+result tid:74
+start time:2015-04-01 15:55:41
+end time:2015-04-01 16:02:45
+distance:108
+
+#######################################
+query trace:480
+
+result tid:37
+start time:2015-04-01 09:37:57
+end time:2015-04-01 09:47:49
+distance:139
+
+result tid:351
+start time:2015-04-01 15:21:55
+end time:2015-04-01 15:35:06
+distance:140
+
+result tid:782
+start time:2015-04-01 16:12:37
+end time:2015-04-01 16:25:33
+distance:147
+
+result tid:193
+start time:2015-04-01 18:01:02
+end time:2015-04-01 18:16:47
+distance:171
+
+result tid:444
+start time:2015-04-01 12:35:59
+end time:2015-04-01 12:52:50
+distance:180
+
+#######################################
+query trace:690
+
+result tid:833
+start time:2015-04-01 23:51:14
+end time:2015-04-01 23:59:53
+distance:134
+
+result tid:541
+start time:2015-04-01 23:10:47
+end time:2015-04-01 23:27:53
+distance:159
+
+result tid:760
+start time:2015-04-01 20:23:51
+end time:2015-04-01 20:45:06
+distance:203
+
+result tid:617
+start time:2015-04-01 17:56:49
+end time:2015-04-01 18:16:49
+distance:207
+
+result tid:289
+start time:2015-04-01 10:22:12
+end time:2015-04-01 10:48:20
+distance:220
+
+#######################################
+query trace:900
+
+result tid:477
+start time:2015-04-01 12:40:44
+end time:2015-04-01 12:52:31
+distance:143
+
+
+size:13
+
+#######################################
+query trace:15
+
+result tid:734
+start time:2015-04-01 09:41:55
+end time:2015-04-01 09:52:26
+distance:118
+
+result tid:543
+start time:2015-04-01 20:17:57
+end time:2015-04-01 20:33:29
+distance:126
+
+result tid:289
+start time:2015-04-01 10:22:12
+end time:2015-04-01 10:48:20
+distance:199
+
+#######################################
+query trace:250
+
+result tid:503
+start time:2015-04-01 09:01:00
+end time:2015-04-01 09:13:11
+distance:132
+
+result tid:438
+start time:2015-04-01 08:48:41
+end time:2015-04-01 09:14:29
+distance:182
+
+#######################################
+query trace:480
+
+result tid:842
+start time:2015-04-01 14:06:34
+end time:2015-04-01 14:21:59
+distance:153
+
+result tid:897
+start time:2015-04-01 07:31:38
+end time:2015-04-01 07:46:51
+distance:159
+
+#######################################
+query trace:690
+
+result tid:45
+start time:2015-04-01 14:59:46
+end time:2015-04-01 15:16:52
+distance:158
+
+result tid:697
+start time:2015-04-01 18:34:17
+end time:2015-04-01 18:50:47
+distance:170
+
+result tid:985
+start time:2015-04-01 13:26:56
+end time:2015-04-01 13:45:34
+distance:191
+
+#######################################
+query trace:900
+
+result tid:793
+start time:2015-04-01 23:50:53
+end time:2015-04-01 23:59:51
+distance:141
+
+result tid:967
+start time:2015-04-01 16:03:35
+end time:2015-04-01 16:12:38
+distance:151
+
+result tid:541
+start time:2015-04-01 23:10:47
+end time:2015-04-01 23:27:53
+distance:164
+
+result tid:485
+start time:2015-04-01 21:49:32
+end time:2015-04-01 22:05:23
+distance:180
+
+
+size:14
+
+#######################################
+query trace:15
+
+result tid:765
+start time:2015-04-01 15:18:17
+end time:2015-04-01 15:31:55
+distance:121
+
+#######################################
+query trace:250
+
+#######################################
+query trace:480
+
+result tid:622
+start time:2015-04-01 17:23:48
+end time:2015-04-01 17:37:11
+distance:148
+
+result tid:713
+start time:2015-04-01 00:13:06
+end time:2015-04-01 00:25:12
+distance:150
+
+#######################################
+query trace:690
+
+result tid:750
+start time:2015-04-01 16:57:13
+end time:2015-04-01 17:07:33
+distance:134
+
+result tid:924
+start time:2015-04-01 02:49:48
+end time:2015-04-01 03:05:43
+distance:164
+
+#######################################
+query trace:900
+
+result tid:369
+start time:2015-04-01 12:18:22
+end time:2015-04-01 12:32:32
+distance:163
+
+result tid:776
+start time:2015-04-01 01:18:54
+end time:2015-04-01 01:36:00
+distance:190
+
+result tid:571
+start time:2015-04-01 21:09:09
+end time:2015-04-01 21:36:03
+distance:243
+
+
+size:15
+
+#######################################
+query trace:15
+
+#######################################
+query trace:250
+
+#######################################
+query trace:480
+
+#######################################
+query trace:690
+
+#######################################
+query trace:900
+
+table size:10
+
+///////////////////////////////////////////////////
+///////////////////////////////////////////////////
+Initiallizing......
+Initialization Success!
+Running....
+
+size:10
+
+#######################################
+query trace:15
+
+result tid:251
+start time:2015-04-01 21:42:36
+end time:2015-04-01 21:52:27
+distance:119
+
+result tid:235
+start time:2015-04-01 12:42:23
+end time:2015-04-01 12:55:48
+distance:131
+
+result tid:152
+start time:2015-04-01 21:32:40
+end time:2015-04-01 21:47:09
+distance:134
+
+result tid:147
+start time:2015-04-01 19:43:46
+end time:2015-04-01 19:58:15
+distance:143
+
+#######################################
+query trace:250
+
+result tid:950
+start time:2015-04-01 18:30:52
+end time:2015-04-01 18:40:26
+distance:112
+
+result tid:153
+start time:2015-04-01 12:10:28
+end time:2015-04-01 12:23:48
+distance:114
+
+result tid:801
+start time:2015-04-01 23:06:26
+end time:2015-04-01 23:16:44
+distance:123
+
+result tid:374
+start time:2015-04-01 17:49:58
+end time:2015-04-01 18:04:29
+distance:123
+
+result tid:332
+start time:2015-04-01 09:51:17
+end time:2015-04-01 10:08:52
+distance:140
+
+result tid:163
+start time:2015-04-01 15:54:18
+end time:2015-04-01 16:09:57
+distance:149
+
+result tid:29
+start time:2015-04-01 09:33:26
+end time:2015-04-01 09:51:15
+distance:152
+
+result tid:662
+start time:2015-04-01 20:50:21
+end time:2015-04-01 21:07:01
+distance:155
+
+result tid:540
+start time:2015-04-01 11:23:13
+end time:2015-04-01 11:42:36
+distance:180
+
+#######################################
+query trace:480
+
+result tid:606
+start time:2015-04-01 16:39:56
+end time:2015-04-01 16:49:32
+distance:128
+
+result tid:48
+start time:2015-04-01 15:58:31
+end time:2015-04-01 16:09:04
+distance:137
+
+result tid:9
+start time:2015-04-01 14:32:06
+end time:2015-04-01 14:42:32
+distance:142
+
+result tid:398
+start time:2015-04-01 21:34:59
+end time:2015-04-01 21:48:00
+distance:143
+
+result tid:624
+start time:2015-04-01 13:16:39
+end time:2015-04-01 13:28:01
+distance:149
+
+result tid:285
+start time:2015-04-01 14:17:28
+end time:2015-04-01 14:34:46
+distance:159
+
+result tid:98
+start time:2015-04-01 12:06:41
+end time:2015-04-01 12:24:07
+distance:169
+
+#######################################
+query trace:690
+
+result tid:523
+start time:2015-04-01 23:33:58
+end time:2015-04-01 23:41:01
+distance:133
+
+result tid:63
+start time:2015-04-01 19:50:09
+end time:2015-04-01 19:59:17
+distance:140
+
+result tid:248
+start time:2015-04-01 16:05:24
+end time:2015-04-01 16:19:52
+distance:143
+
+result tid:965
+start time:2015-04-01 22:07:21
+end time:2015-04-01 22:22:16
+distance:157
+
+result tid:225
+start time:2015-04-01 19:12:08
+end time:2015-04-01 19:26:37
+distance:158
+
+result tid:886
+start time:2015-04-01 19:10:44
+end time:2015-04-01 19:27:55
+distance:163
+
+result tid:914
+start time:2015-04-01 20:17:13
+end time:2015-04-01 20:33:09
+distance:168
+
+result tid:707
+start time:2015-04-01 11:29:43
+end time:2015-04-01 11:45:03
+distance:169
+
+result tid:293
+start time:2015-04-01 10:10:41
+end time:2015-04-01 10:27:25
+distance:175
+
+result tid:155
+start time:2015-04-01 19:06:05
+end time:2015-04-01 19:26:49
+distance:180
+
+result tid:158
+start time:2015-04-01 22:36:03
+end time:2015-04-01 22:54:28
+distance:184
+
+result tid:907
+start time:2015-04-01 09:02:52
+end time:2015-04-01 09:31:29
+distance:234
+
+#######################################
+query trace:900
+
+result tid:747
+start time:2015-04-01 11:59:36
+end time:2015-04-01 12:13:54
+distance:150
+
+result tid:343
+start time:2015-04-01 02:47:04
+end time:2015-04-01 02:59:20
+distance:151
+
+result tid:71
+start time:2015-04-01 14:41:40
+end time:2015-04-01 14:51:05
+distance:152
+
+result tid:702
+start time:2015-04-01 14:19:08
+end time:2015-04-01 14:33:11
+distance:153
+
+result tid:287
+start time:2015-04-01 13:54:50
+end time:2015-04-01 14:06:03
+distance:158
+
+
+size:11
+
+#######################################
+query trace:15
+
+result tid:669
+start time:2015-04-01 20:24:48
+end time:2015-04-01 20:38:30
+distance:115
+
+result tid:492
+start time:2015-04-01 20:59:02
+end time:2015-04-01 21:09:48
+distance:120
+
+result tid:119
+start time:2015-04-01 12:42:26
+end time:2015-04-01 12:55:15
+distance:121
+
+result tid:666
+start time:2015-04-01 12:10:37
+end time:2015-04-01 12:23:37
+distance:121
+
+result tid:965
+start time:2015-04-01 22:07:21
+end time:2015-04-01 22:22:16
+distance:136
+
+result tid:256
+start time:2015-04-01 13:23:07
+end time:2015-04-01 13:36:56
+distance:141
+
+result tid:366
+start time:2015-04-01 08:38:16
+end time:2015-04-01 08:53:49
+distance:144
+
+result tid:770
+start time:2015-04-01 01:00:16
+end time:2015-04-01 01:12:40
+distance:148
+
+result tid:776
+start time:2015-04-01 01:18:54
+end time:2015-04-01 01:36:00
+distance:166
+
+result tid:932
+start time:2015-04-01 21:56:46
+end time:2015-04-01 22:18:47
+distance:204
+
+#######################################
+query trace:250
+
+result tid:202
+start time:2015-04-01 23:11:17
+end time:2015-04-01 23:21:20
+distance:114
+
+result tid:942
+start time:2015-04-01 13:14:11
+end time:2015-04-01 13:23:36
+distance:119
+
+result tid:218
+start time:2015-04-01 22:58:34
+end time:2015-04-01 23:10:40
+distance:122
+
+result tid:804
+start time:2015-04-01 10:46:12
+end time:2015-04-01 10:58:01
+distance:122
+
+result tid:38
+start time:2015-04-01 22:07:53
+end time:2015-04-01 22:19:51
+distance:136
+
+#######################################
+query trace:480
+
+result tid:749
+start time:2015-04-01 20:55:38
+end time:2015-04-01 21:07:29
+distance:138
+
+result tid:963
+start time:2015-04-01 16:31:04
+end time:2015-04-01 16:44:07
+distance:139
+
+result tid:901
+start time:2015-04-01 23:01:19
+end time:2015-04-01 23:14:04
+distance:139
+
+result tid:410
+start time:2015-04-01 21:13:31
+end time:2015-04-01 21:24:25
+distance:149
+
+result tid:890
+start time:2015-04-01 13:24:05
+end time:2015-04-01 13:40:55
+distance:169
+
+result tid:791
+start time:2015-04-01 21:31:09
+end time:2015-04-01 21:59:01
+distance:243
+
+#######################################
+query trace:690
+
+result tid:851
+start time:2015-04-01 18:53:37
+end time:2015-04-01 19:11:12
+distance:153
+
+result tid:515
+start time:2015-04-01 11:15:04
+end time:2015-04-01 11:43:10
+distance:211
+
+result tid:604
+start time:2015-04-01 14:53:06
+end time:2015-04-01 15:20:31
+distance:232
+
+#######################################
+query trace:900
+
+result tid:314
+start time:2015-04-01 13:31:30
+end time:2015-04-01 13:47:35
+distance:107
+
+result tid:501
+start time:2015-04-01 13:56:26
+end time:2015-04-01 14:20:25
+distance:191
+
+result tid:703
+start time:2015-04-01 15:10:30
+end time:2015-04-01 15:30:36
+distance:194
+
+result tid:746
+start time:2015-04-01 09:17:04
+end time:2015-04-01 09:42:59
+distance:206
+
+
+size:12
+
+#######################################
+query trace:15
+
+result tid:965
+start time:2015-04-01 22:07:21
+end time:2015-04-01 22:22:16
+distance:136
+
+result tid:881
+start time:2015-04-01 15:09:47
+end time:2015-04-01 15:25:53
+distance:141
+
+result tid:106
+start time:2015-04-01 19:23:24
+end time:2015-04-01 19:46:38
+distance:180
+
+#######################################
+query trace:250
+
+result tid:768
+start time:2015-04-01 12:22:21
+end time:2015-04-01 12:34:51
+distance:121
+
+result tid:187
+start time:2015-04-01 15:56:00
+end time:2015-04-01 16:10:08
+distance:128
+
+#######################################
+query trace:480
+
+result tid:709
+start time:2015-04-01 14:01:57
+end time:2015-04-01 14:11:41
+distance:138
+
+result tid:373
+start time:2015-04-01 11:56:59
+end time:2015-04-01 12:18:15
+distance:164
+
+result tid:512
+start time:2015-04-01 12:27:35
+end time:2015-04-01 13:00:04
+distance:250
+
+#######################################
+query trace:690
+
+#######################################
+query trace:900
+
+result tid:314
+start time:2015-04-01 13:31:30
+end time:2015-04-01 13:47:35
+distance:107
+
+result tid:90
+start time:2015-04-01 20:45:12
+end time:2015-04-01 20:54:03
+distance:134
+
+result tid:99
+start time:2015-04-01 14:57:21
+end time:2015-04-01 15:11:11
+distance:141
+
+result tid:223
+start time:2015-04-01 20:14:39
+end time:2015-04-01 20:24:50
+distance:143
+
+result tid:832
+start time:2015-04-01 23:08:55
+end time:2015-04-01 23:30:11
+distance:203
+
+
+size:13
+
+#######################################
+query trace:15
+
+result tid:463
+start time:2015-04-01 11:51:22
+end time:2015-04-01 12:05:39
+distance:124
+
+#######################################
+query trace:250
+
+result tid:529
+start time:2015-04-01 20:44:39
+end time:2015-04-01 20:56:23
+distance:117
+
+result tid:322
+start time:2015-04-01 15:21:46
+end time:2015-04-01 15:31:42
+distance:128
+
+result tid:290
+start time:2015-04-01 13:32:41
+end time:2015-04-01 13:45:34
+distance:133
+
+result tid:455
+start time:2015-04-01 15:34:26
+end time:2015-04-01 15:55:56
+distance:177
+
+#######################################
+query trace:480
+
+result tid:232
+start time:2015-04-01 00:00:02
+end time:2015-04-01 00:20:00
+distance:169
+
+result tid:740
+start time:2015-04-01 21:30:43
+end time:2015-04-01 22:00:01
+distance:218
+
+#######################################
+query trace:690
+
+result tid:118
+start time:2015-04-01 09:01:00
+end time:2015-04-01 09:14:15
+distance:151
+
+result tid:900
+start time:2015-04-01 13:22:30
+end time:2015-04-01 13:39:38
+distance:163
+
+#######################################
+query trace:900
+
+result tid:426
+start time:2015-04-01 12:57:18
+end time:2015-04-01 13:07:42
+distance:154
+
+result tid:690
+start time:2015-04-01 13:56:41
+end time:2015-04-01 14:12:32
+distance:163
+
+result tid:636
+start time:2015-04-01 21:41:19
+end time:2015-04-01 21:56:56
+distance:168
+
+
+size:14
+
+#######################################
+query trace:15
+
+result tid:449
+start time:2015-04-01 08:35:49
+end time:2015-04-01 08:50:10
+distance:116
+
+result tid:389
+start time:2015-04-01 05:34:35
+end time:2015-04-01 05:45:00
+distance:121
+
+#######################################
+query trace:250
+
+result tid:423
+start time:2015-04-01 18:55:01
+end time:2015-04-01 19:09:09
+distance:111
+
+result tid:726
+start time:2015-04-01 14:40:50
+end time:2015-04-01 14:58:26
+distance:154
+
+#######################################
+query trace:480
+
+#######################################
+query trace:690
+
+#######################################
+query trace:900
+
+result tid:140
+start time:2015-04-01 19:28:57
+end time:2015-04-01 19:44:34
+distance:173
+
+result tid:174
+start time:2015-04-01 20:13:12
+end time:2015-04-01 20:31:58
+distance:177
+
+
+size:15
+
+#######################################
+query trace:15
+
+#######################################
+query trace:250
+
+result tid:537
+start time:2015-04-01 13:59:14
+end time:2015-04-01 14:24:01
+distance:186
+
+#######################################
+query trace:480
+
+#######################################
+query trace:690
+
+result tid:276
+start time:2015-04-01 02:42:53
+end time:2015-04-01 02:52:46
+distance:137
+
+#######################################
+query trace:900
+
