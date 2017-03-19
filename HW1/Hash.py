@@ -6,14 +6,17 @@ from lshash import lshash as ls
 
 class HashData:
 
-    def __init__(self, hashTables):
+    def __init__(self, mDataProcessor = None):
 
         print "Initiallizing......"
 
-        dP = dataProcessor()
+        if mDataProcessor is None:
+            dP = dataProcessor()
+        else:
+            dP = mDataProcessor
 
-        self.__originData = dP.readFile()
-        self.__data = dP.tansferDataToGridMatrix(self.__originData)
+        self.__originData = dP.gridData
+        self.__data = dP.dataFrame
         self.__hashSizeList = [10, 11, 12, 13, 14, 15]
         self.__traceToCheckList = [15, 250, 480, 690, 900]
 
@@ -34,23 +37,18 @@ class HashData:
 
         print "Initialization Success!"
 
-
     def run(self):
         print "Running...."
+
+        ret = {}
         for sizeOpt in self.__hashSizeList:
-            print "\nsize:" + str(sizeOpt) + '\n'
+            ret[sizeOpt] = []
             for trace in self.__traceToCheckList:
-                print "#######################################"
-                print "query trace:" + str(trace) + '\n'
-                query_point = self.__data[trace].tolist()
+                query_point = self.__data[trace-1].tolist()
                 result = self.__hashProcessors[sizeOpt].query(query_point, 100, "hamming")
-                #输出结果
-                for res in result:
-                    if res[0][1].tid != trace:
-                        print "result tid:" + str(res[0][1].tid)
-                        print "start time:" + str(res[0][1].startTime)
-                        print "end time:" + str(res[0][1].endTime)
-                        print "distance:" + str(res[1]) + '\n'
+                ret[sizeOpt].append([trace, result])# result 中 tid比
+
+        return ret
 
 
 
