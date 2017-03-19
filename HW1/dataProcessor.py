@@ -89,12 +89,10 @@ class dataProcessor:
 
     def drawTrace(self, tid = None, saveName = "All"):
 
-
-
-
         traceItemX = []
         traceItemY = []
         dataSize = len(self.__data.X)
+        resFile = open("Result/File/"+saveName, 'w')
         # 对于所有轨迹数据
         for index in range(dataSize):
             # tid 是空 或者 当前轨迹在tid中, 就打印该轨迹
@@ -103,17 +101,24 @@ class dataProcessor:
                 traceItemX.append(latX)
                 traceItemY.append(latY)
 
-                # 最后一个数据点, 打印轨迹并清空轨迹记录列表
+                # 最后一个数据点, 打印轨迹,将轨迹输出到文件并清空轨迹记录列表
                 if index == dataSize - 1 or self.__data.Tid[index] != self.__data.Tid[index + 1]:
                     plt.plot(traceItemX, traceItemY)
+                    for i,X in enumerate(traceItemX):
+                        resFile.write(str(traceItemX[i]) + " " + str(traceItemY[i]) + "\n")
+                    resFile.write("#\n")
                     traceItemX = []
                     traceItemY = []
 
-        #保存
+        resFile.close()
+
+        #保存并把结果输出到文件
         plt.xticks(np.linspace(31.16, 31.30, 8))
         plt.yticks(np.linspace(121.376, 121.560, 10))
         plt.savefig("Result/Img/"+saveName+".png")
         plt.close('all')
+
+
 
     def getTraceSum(self):
         return self.__traceSum

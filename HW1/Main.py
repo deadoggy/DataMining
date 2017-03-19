@@ -16,7 +16,6 @@ if __name__ == "__main__":
     hashRes = hashObj.run()
     knnRes = knnObj.run()
 
-    dp.drawTrace()
 
     for query_trace in knnRes:
          group = knnRes[query_trace]
