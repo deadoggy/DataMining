@@ -1,0 +1,13 @@
+Result文件里分别保存了在欧式距离和汉明距离下的LSH结果，以及KNN的结果，分别是:
+eu_dis--hashsizeFROM10TO15--hash_tableFROM1TO10 
+ham_dis--hashsizeFROM10TO15--hash_tableFROM1TO10
+knn
+在Result/Img文件里保存了所有聚类结果的图形化以及所有轨迹的图形化。
+Result/File文件里是保存了所有轨迹的经纬坐标的js脚本，用于调用百度地图的API。
+
+最后图形化结果可以在:
+https://deadoggy.github.io/2017/03/19/数据挖掘第一次作业结果.html
+进行图形化的查询和对比。
+由于网页是github页面，国内比较慢，图片加载可能需要时间，请稍微耐心等待。
+
+本次作业的代码位于 https://github.com/deadoggy/DataMining/tree/master/HW1
