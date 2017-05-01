@@ -38,7 +38,7 @@ public class Alg {
             AlgoApriori apriori = new AlgoApriori();
             //开始时间
             Date begTime = new Date();
-            aprSet = apriori.runAlgorithm(1.0, "dataItem", "aprRes");
+            aprSet = apriori.runAlgorithm(0.5, "dataItem", "aprRes");
             //结束时间
             Date endTime = new Date();
 
@@ -54,10 +54,12 @@ public class Alg {
     private static void runFPGrowth(){
         try{
             AlgoFPGrowth fpgrowth = new AlgoFPGrowth();
-
+            //截取数据
+            String dataFileName = "fpgData";
+            divideData(30,dataFileName);
             //开始时间
             Date begTime = new Date();
-            fpSets = fpgrowth.runAlgorithm("dataItem", "fpRes", 1.0D);
+            fpSets = fpgrowth.runAlgorithm(dataFileName, "fpRes", 1.0D);
             //结束时间
             Date endTime = new Date();
 
@@ -69,47 +71,22 @@ public class Alg {
         }
     }
 
-    private static void generateTimeSeqFile(){
+    private static void runGSP(){
         try{
-            //输入文件
-            File dataItemFile = new File("dataItem");
-            BufferedReader input = new BufferedReader(new FileReader(dataItemFile));
-            //输出文件
-            File timeSeqFile = new File("timeSeq");
-            FileWriter out = new FileWriter(timeSeqFile);
-            //把数据处理成时间序列格式
-            String line;
-            while((line = input.readLine()) != null){
-                String[] items = line.split(" ");
-                StringBuilder outLine = new StringBuilder();
-                for(String item : items){
-                    outLine.append(item);
-                    outLine.append(" ");
-                    outLine.append("-1 ");
-                }
-                outLine.append("-2\n");
-                out.write(outLine.toString());
-            }
-            out.close();
-        }catch(Exception e){
-            e.printStackTrace();
-        }
-    }
-
-    private static void runGPS(){
-        try{
-
+            //截取数据
+            String dataFileName = "gspData";
+            generateTimeSeqFile(30, dataFileName);
             //初始化时间序列的数据结构
             boolean outputSequenceIdentifiers = false;
             AbstractionCreator abstractionCreator = AbstractionCreator_Qualitative.getInstance();
             SequenceDatabase sequenceDatabase = new SequenceDatabase(abstractionCreator);
-            sequenceDatabase.loadFile("timeSeq", 1.0);
+            sequenceDatabase.loadFile(dataFileName, 0.5);
             //生成算法器
-            AlgoGSP gsp = new AlgoGSP(1.0, 0, Integer.MAX_VALUE, 0, abstractionCreator);
+            AlgoGSP gsp = new AlgoGSP(0.5, 0, Integer.MAX_VALUE, 0, abstractionCreator);
             //开始时间
             Date begTime = new Date();
             //跑算法
-            gsp.runAlgorithm(sequenceDatabase,true,false,"gpsRes", outputSequenceIdentifiers);
+            gsp.runAlgorithm(sequenceDatabase,true,false,"gspRes", outputSequenceIdentifiers);
             //结束时间
             Date endTime = new Date();
 
@@ -124,6 +101,10 @@ public class Alg {
 
     private static void runSPADE(){
         try{
+            //截取数据
+            String dataFileName = "spadeData";
+            generateTimeSeqFile(30, dataFileName);
+
             //初始化时间序列结构
             ca.pfv.spmf.algorithms.sequentialpatterns.spade_spam_AGP.dataStructures.creators.AbstractionCreator
                     abstractionCreator = ca.pfv.spmf.algorithms.sequentialpatterns.spade_spam_AGP.dataStructures.creators.AbstractionCreator_Qualitative.getInstance();
@@ -135,9 +116,9 @@ public class Alg {
             ca.pfv.spmf.algorithms.sequentialpatterns.spade_spam_AGP.dataStructures.database.SequenceDatabase
                     sequenceDatabase = new ca.pfv.spmf.algorithms.sequentialpatterns.spade_spam_AGP.dataStructures.database.SequenceDatabase(abstractionCreator, idListCreator);
 
-            sequenceDatabase.loadFile("timeSeq", 1.0);
+            sequenceDatabase.loadFile(dataFileName, 0.5);
             //生成算法器
-            AlgoSPADE spade = new AlgoSPADE(1.0, true, abstractionCreator);
+            AlgoSPADE spade = new AlgoSPADE(0.5, true, abstractionCreator);
             //开始时间
             Date begTime = new Date();
             //跑算法
@@ -154,21 +135,87 @@ public class Alg {
         }
     }
 
+    private static boolean divideData(Integer dataSum, String fileName){
+        try{
+            // source file
+            File sourceFile = new File("dataItem");
+            BufferedReader sourceReader = new BufferedReader(new FileReader(sourceFile));
+            // target file
+            File targetFile = new File(fileName);
+            FileWriter targetWriter = new FileWriter(targetFile);
+            String line;
+            // read from source file
+            while((line = sourceReader.readLine()) != null){
+                String[] pts = line.split(" ");
+                for(int i=0; i<dataSum; i++){
+                    targetWriter.write(pts[i]);
+                    if(i != dataSum -1){
+                        targetWriter.write(" ");
+                    }else{
+                        targetWriter.write("\n");
+                    }
+                }
+
+            }
+            sourceReader.close();
+            targetWriter.close();
+            return true;
+        }catch(Exception e){
+            e.printStackTrace();
+            return false;
+        }
+
+    }
+
+    private static void generateTimeSeqFile(int dataSum, String fileName){
+        try{
+            //输入文件
+            File dataItemFile = new File("dataItem");
+            BufferedReader input = new BufferedReader(new FileReader(dataItemFile));
+            //输出文件
+            File timeSeqFile = new File(fileName);
+            FileWriter out = new FileWriter(timeSeqFile);
+            //把数据处理成时间序列格式
+            String line;
+            while((line = input.readLine()) != null){
+                int flag = 0;
+                String[] items = line.split(" ");
+                StringBuilder outLine = new StringBuilder();
+                for(String item : items){
+                    outLine.append(item);
+                    outLine.append(" ");
+                    outLine.append("-1 ");
+                    //如果数据数量到达上限就退出
+                    flag ++;
+                    if(flag == dataSum){
+                        break;
+                    }
+                }
+                outLine.append("-2\n");
+                out.write(outLine.toString());
+            }
+            out.close();
+        }catch(Exception e){
+            e.printStackTrace();
+        }
+    }
+
     public void runAll(){
         SimpleDateFormat df = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");//设置日期格式
         System.out.println(df.format(new Date()));// new Date()为获取当前系统时间
-        System.out.println("Apriori alg");
+        System.out.println("Apriori alg -- 1000");
         Alg.runApriori();
-        System.out.println("FPGrowth alg");
+        System.out.println("FPGrowth alg -- 30");
         Alg.runFPGrowth();
-        System.out.println("GPS alg");
-        Alg.runGPS();
-        System.out.println("SPADE alg");
+        System.out.println("GPS alg -- 30");
+        Alg.runGSP();
+        System.out.println("SPADE alg -- 30");
         Alg.runSPADE();
         System.out.println(df.format(new Date()));// new Date()为获取当前系统时间
     }
     public static void main(String[] argv){
         Alg alg = new Alg();
         alg.runAll();
+
     }
 }

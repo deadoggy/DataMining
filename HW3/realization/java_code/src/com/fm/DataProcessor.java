@@ -9,7 +9,7 @@ class DataProcessor{
     public static void main(String[] argv){
         try{
             // 数据上限
-            int upBound = 2000;
+            int upBound = 1000;
             // 文件列表
             String[] fileList = {"new4gtest.csv", "new4gtrain.csv"};
             // item记录
