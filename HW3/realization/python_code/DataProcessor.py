@@ -1,9 +1,8 @@
 #coding:utf-8
 
-import numpy as np
-from sklearn.ensemble import RandomForestClassifier
-import csv
 
+import csv
+import random
 
 class DataProcessor:
 
@@ -74,7 +73,7 @@ class DataProcessor:
 
     def saveToFile(self, rate):
         '''
-
+        每次随机从数据中收取百分比为rate的数据
         :param rate: 测试集占总数据的百分比
         :return:
         '''
@@ -85,10 +84,13 @@ class DataProcessor:
         trainYLL = []
         trainYG = []
 
+        #找到随机数据的起点
         testSum = int(rate *len(self.X))
 
+        begPt = int(random.uniform(0, len(self.X) - testSum - 1))
+
         for index in range(len(self.X)):
-            if index < testSum:
+            if index in range(begPt, testSum + begPt):
                 testX.append(self.X[index])
                 testYG.append(self.YG[index])
                 testYLL.append(self.YLL[index])
@@ -144,6 +146,8 @@ class DataProcessor:
                     trainYLLFile.write(" ")
             trainYLLFile.write("\n")
         trainYLLFile.close()
+
+
 
 
 if __name__ == "__main__":

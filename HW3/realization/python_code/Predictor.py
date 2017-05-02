@@ -2,7 +2,7 @@
 
 from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 import numpy as np
-import math
+import random
 
 class Predictor:
 
@@ -39,6 +39,34 @@ class Predictor:
         self.trainX = self.__fromFileLoadList(pre + "trainX")
         self.trainYLL = self.__fromFileLoadList(pre + "trainYLL")
         self.trainYG = self.__fromFileLoadList(pre + "trainYG")
+
+    def changeData(self):
+        '''
+        改变测试数据和训练数据
+        :return:
+        '''
+        testSum = len(self.testX)
+
+        X = self.testX + self.trainX
+        YG = self.testYG + self.trainYG
+        YLL = self.testYLL + self.trainYLL
+
+        self.testX = []
+        self.testYLL = []
+        self.testYG = []
+        self.trainX = []
+        self.trainYLL = []
+        self.trainYG = []
+
+        beg = int(random.uniform(0, len(X) - testSum -1))
+
+        self.testX = X[beg: beg+testSum]
+        self.testYG = YG[beg: beg+testSum]
+        self.testYLL = YLL[beg: beg+testSum]
+
+        self.trainX = X[0: beg] + X[beg+testSum:]
+        self.trainYG = YG[0: beg] + YG[beg+testSum:]
+        self.trainYLL= YLL[0: beg] + YLL[beg+testSum:]
 
     def __fromFileLoadList(self, fileName):
         '''
@@ -94,6 +122,9 @@ if __name__ == "__main__":
     # obj = Predictor("cla", "lte")
     # obj.fit()
     #
-    obj = Predictor("reg", "lte")
-    print obj.fit()
-
+    # obj = Predictor("reg", "lte")
+    # print obj.fit()
+    l = [ 2, 3, 1]
+    s = l[0:2]
+    l.sort()
+    print l
